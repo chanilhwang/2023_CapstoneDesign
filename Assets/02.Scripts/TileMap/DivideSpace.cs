@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class DivideSpace : MonoBehaviour
 {
+    public int cycle = 0;
     public int totalWidth;
     public int totalHeight;
     [SerializeField]
@@ -19,9 +20,35 @@ public class DivideSpace : MonoBehaviour
 
     public void DivideRoom(RectangleSpace space)
     {
-        if(space.height >= minHeight * 2 && space.width >= minWidth * 2)
+        cycle++;
+        if (cycle < 4)
         {
-            if(Random.Range(0, 2) < 1)
+            if (space.height >= minHeight * 2 && space.width >= minWidth * 2)
+            {
+                if (Random.Range(0, 2) < 1)
+                {
+
+                    RectangleSpace[] spaces = DivideHorizontal(space);
+
+                    DivideRoom(spaces[0]);
+                    DivideRoom(spaces[1]);
+                }
+                else
+                {
+                    RectangleSpace[] spaces = DivideVertical(space);
+
+                    DivideRoom(spaces[0]);
+                    DivideRoom(spaces[1]);
+                }
+            }
+            else if (space.height < minHeight * 2 && space.width >= minWidth * 2)
+            {
+                RectangleSpace[] spaces = DivideVertical(space);
+
+                DivideRoom(spaces[0]);
+                DivideRoom(spaces[1]);
+            }
+            else if (space.height >= minHeight * 2 && space.width < minWidth * 2)
             {
                 RectangleSpace[] spaces = DivideHorizontal(space);
 
@@ -30,29 +57,54 @@ public class DivideSpace : MonoBehaviour
             }
             else
             {
-                RectangleSpace[] spaces = DivideVertical(space);
-
-                DivideRoom(spaces[0]);
-                DivideRoom(spaces[1]);
+                spaceList.Add(space);
             }
-        }
-        else if(space.height < minHeight * 2 && space.width >= minWidth *2)
-        {
-            RectangleSpace[] spaces = DivideVertical(space);
-
-            DivideRoom(spaces[0]);
-            DivideRoom(spaces[1]);
-        }
-        else if(space.height >= minHeight * 2 && space.width < minWidth * 2 )
-        {
-            RectangleSpace[] spaces = DivideHorizontal(space);
-
-            DivideRoom(spaces[0]);
-            DivideRoom(spaces[1]);
         }
         else
         {
-            spaceList.Add(space);
+            if (space.height >= minHeight * 2 && space.width >= minWidth * 2)
+            {
+                 if (Random.Range(0, 2) < 1)
+                {
+                    if (Random.Range(0, 2) < 1)
+                    {
+
+                        RectangleSpace[] spaces = DivideHorizontal(space);
+
+                        DivideRoom(spaces[0]);
+                        DivideRoom(spaces[1]);
+                    }
+                    else
+                    {
+                        RectangleSpace[] spaces = DivideVertical(space);
+
+                        DivideRoom(spaces[0]);
+                        DivideRoom(spaces[1]);
+                    }
+                }
+            }
+            else if (space.height < minHeight * 2 && space.width >= minWidth * 2)
+            {
+                if (Random.Range(0, 2) < 1)
+                {
+                    RectangleSpace[] spaces = DivideVertical(space);
+                    DivideRoom(spaces[0]);
+                    DivideRoom(spaces[1]);
+                }
+            }
+            else if (space.height >= minHeight * 2 && space.width < minWidth * 2)
+            {
+                if (Random.Range(0, 2) < 1)
+                {
+                    RectangleSpace[] spaces = DivideHorizontal(space);
+                    DivideRoom(spaces[0]);
+                    DivideRoom(spaces[1]);
+                }
+            }
+            else
+            {
+                spaceList.Add(space);
+            }
         }
     }
 
@@ -67,7 +119,7 @@ public class DivideSpace : MonoBehaviour
 
         RectangleSpace[] spaces = new RectangleSpace[2];
         spaces[0] = newSpace1;
-        spaces[1] = newSpace2; 
+        spaces[1] = newSpace2;
         return spaces;
     }
 
@@ -83,7 +135,7 @@ public class DivideSpace : MonoBehaviour
 
         RectangleSpace[] spaces = new RectangleSpace[2];
         spaces[0] = newSpace1;
-        spaces[1] = newSpace2;  
+        spaces[1] = newSpace2;
         return spaces;
     }
 

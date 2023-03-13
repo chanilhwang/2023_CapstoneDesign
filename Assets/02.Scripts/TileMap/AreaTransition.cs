@@ -5,7 +5,7 @@ using UnityEngine;
 public class AreaTransitionRight : MonoBehaviour
 {
     // 카메라 스크립트 변수
-    private MainCameraController cam;
+    //private MainCameraController cam;
     // 새로운 맵 카메라 최소, 최대 범위 설정
     [SerializeField] Vector2 newMinCameraBoundary;
     [SerializeField] Vector2 newMaxCameraBoundary;

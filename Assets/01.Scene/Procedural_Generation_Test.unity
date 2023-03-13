@@ -149,6 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 388a2a7df0f03874fb8388390240871d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cycle: 0
   totalWidth: 50
   totalHeight: 50
   minWidth: 15
@@ -350,7 +351,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   floor: {fileID: 1587445715}
   wall: {fileID: 613770993}
-  floorTile: {fileID: 0}
+  floorTile: {fileID: 11400000, guid: f8bde329e3be4f94999206cb0ccd3d5d, type: 2}
   wallTile: {fileID: 11400000, guid: 10b220373ed434a4699d1cd6e79364db, type: 2}
 --- !u!4 &1373425621
 Transform:

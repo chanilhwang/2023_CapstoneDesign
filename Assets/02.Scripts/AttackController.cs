@@ -10,6 +10,7 @@ public class AttackController : MonoBehaviour
     public float life = 1;
     public ParticleSystem hitEffect;
     public LayerMask hitLayer;
+    public Transform hitSubject = null;
 
     private HashSet<GameObject> hitEnemies = new HashSet<GameObject>();
 
@@ -43,7 +44,7 @@ public class AttackController : MonoBehaviour
             Rigidbody2D rb = other.GetComponent<Rigidbody2D>();
             if(rb != null)
             {
-                Vector2 dir = new Vector3(other.transform.position.x - transform.position.x, 0, 0);
+                Vector2 dir = new Vector3(other.transform.position.x - hitSubject.position.x, 0, 0);
                 rb.AddForce(dir.normalized * knockbackForce, ForceMode2D.Impulse);
             }
 

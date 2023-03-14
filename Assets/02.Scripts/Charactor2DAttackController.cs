@@ -62,5 +62,6 @@ public class Charactor2DAttackController : MonoBehaviour
         ac.damage = damage;
         ac.knockbackForce = knockbackForce;
         ac.hitLayer = LayerMask.NameToLayer("Enemy");
+        ac.hitSubject = transform;
     }
 }

@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class DivideSpace : MonoBehaviour
 {
-    public int cycle = 0;
+    public int cycle ;
     public int totalWidth;
     public int totalHeight;
     [SerializeField]
@@ -20,36 +20,12 @@ public class DivideSpace : MonoBehaviour
 
     public void DivideRoom(RectangleSpace space)
     {
-        cycle++;
-        if (cycle < 4)
+        
+        if (space.height >= minHeight * 2 && space.width >= minWidth * 2)
         {
-            if (space.height >= minHeight * 2 && space.width >= minWidth * 2)
+            if (Random.Range(0, 2) < 1)
             {
-                if (Random.Range(0, 2) < 1)
-                {
 
-                    RectangleSpace[] spaces = DivideHorizontal(space);
-
-                    DivideRoom(spaces[0]);
-                    DivideRoom(spaces[1]);
-                }
-                else
-                {
-                    RectangleSpace[] spaces = DivideVertical(space);
-
-                    DivideRoom(spaces[0]);
-                    DivideRoom(spaces[1]);
-                }
-            }
-            else if (space.height < minHeight * 2 && space.width >= minWidth * 2)
-            {
-                RectangleSpace[] spaces = DivideVertical(space);
-
-                DivideRoom(spaces[0]);
-                DivideRoom(spaces[1]);
-            }
-            else if (space.height >= minHeight * 2 && space.width < minWidth * 2)
-            {
                 RectangleSpace[] spaces = DivideHorizontal(space);
 
                 DivideRoom(spaces[0]);
@@ -57,54 +33,29 @@ public class DivideSpace : MonoBehaviour
             }
             else
             {
-                spaceList.Add(space);
+                RectangleSpace[] spaces = DivideVertical(space);
+
+                DivideRoom(spaces[0]);
+                DivideRoom(spaces[1]);
             }
+        }
+        else if (space.height < minHeight * 2 && space.width >= minWidth * 2)
+        {
+            RectangleSpace[] spaces = DivideVertical(space);
+
+            DivideRoom(spaces[0]);
+            DivideRoom(spaces[1]);
+        }
+        else if (space.height >= minHeight * 2 && space.width < minWidth * 2)
+        {
+            RectangleSpace[] spaces = DivideHorizontal(space);
+
+            DivideRoom(spaces[0]);
+            DivideRoom(spaces[1]);
         }
         else
         {
-            if (space.height >= minHeight * 2 && space.width >= minWidth * 2)
-            {
-                 if (Random.Range(0, 2) < 1)
-                {
-                    if (Random.Range(0, 2) < 1)
-                    {
-
-                        RectangleSpace[] spaces = DivideHorizontal(space);
-
-                        DivideRoom(spaces[0]);
-                        DivideRoom(spaces[1]);
-                    }
-                    else
-                    {
-                        RectangleSpace[] spaces = DivideVertical(space);
-
-                        DivideRoom(spaces[0]);
-                        DivideRoom(spaces[1]);
-                    }
-                }
-            }
-            else if (space.height < minHeight * 2 && space.width >= minWidth * 2)
-            {
-                if (Random.Range(0, 2) < 1)
-                {
-                    RectangleSpace[] spaces = DivideVertical(space);
-                    DivideRoom(spaces[0]);
-                    DivideRoom(spaces[1]);
-                }
-            }
-            else if (space.height >= minHeight * 2 && space.width < minWidth * 2)
-            {
-                if (Random.Range(0, 2) < 1)
-                {
-                    RectangleSpace[] spaces = DivideHorizontal(space);
-                    DivideRoom(spaces[0]);
-                    DivideRoom(spaces[1]);
-                }
-            }
-            else
-            {
-                spaceList.Add(space);
-            }
+            spaceList.Add(space);
         }
     }
 

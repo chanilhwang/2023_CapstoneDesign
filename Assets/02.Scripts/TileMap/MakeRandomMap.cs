@@ -38,7 +38,7 @@ public class MakeRandomMap : MonoBehaviour
         divideSpace.DivideRoom(divideSpace.totalSpace);
         MakeRandomRooms();
 
-        //MakeCorridors();
+        MakeCorridors();
 
         MakeWall();
 

@@ -38,15 +38,15 @@ public class MakeRandomMap : MonoBehaviour
         divideSpace.DivideRoom(divideSpace.totalSpace);
         MakeRandomRooms();
 
-        MakeCorridors();
+        //MakeCorridors();
 
         MakeWall();
 
         //spreadTilemap.SpreadFloorTilemap(floor);
         spreadTilemap.SpreadWallTilemap(wall);
 
-        player.transform.position = (Vector2)divideSpace.spaceList[0].Center();
-        entrance.transform.position = (Vector2)divideSpace.spaceList[divideSpace.spaceList.Count - 1].Center();
+        //player.transform.position = (Vector2)divideSpace.spaceList[0].Center();
+        //entrance.transform.position = (Vector2)divideSpace.spaceList[divideSpace.spaceList.Count - 1].Center();
     }
 
 

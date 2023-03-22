@@ -13,6 +13,8 @@ enum GameState
 public class GameManager : MonoBehaviour 
 {
     public static GameManager _instance;
+    public TestManager boardScript;
+    private int level = 3;
 
     private GameState _gameState { get; set; }
 
@@ -25,5 +27,13 @@ public class GameManager : MonoBehaviour
 
         _instance = this;
         DontDestroyOnLoad(this.gameObject);
+
+        boardScript = GetComponent<TestManager>();
+
+        InitGame();
+    }
+    void InitGame()
+    {
+        boardScript.SetupScene(level);
     }
 }

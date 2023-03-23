@@ -8,5 +8,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scene/PlayerMoveTest.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/01.Scene/ma-eul.unity
+    guid: e71a6fd9998db5147919f631901907b2
+  - enabled: 1
+    path: Assets/01.Scene/Procedural_Generation_Test.unity
+    guid: efd0351f4c4585747b13c07797a74fd4
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

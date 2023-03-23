@@ -58,7 +58,7 @@ public class TestManager : MonoBehaviour
 
                 if(i == -1 || i == columns ||  j == -1 || j == rows)
                 {
-                   // toInstantiate = wallTiles[Random.Range(0, wallTiles.Length)];
+                    toInstantiate = wallTiles[Random.Range(0, wallTiles.Length)];
                 }
 
                 GameObject instance = Instantiate(toInstantiate,new Vector3(i,j,0f), Quaternion.identity);
@@ -91,13 +91,13 @@ public class TestManager : MonoBehaviour
 
     }
 
-    public void SetupScene(int level)
+    public void SetupScene()
     {
         BoardSetup();
 
         InitialiseList();
 
-        LayoutObjectAtRandom(wallTiles,wallCount.minimum,wallCount.maximum);
+        //LayoutObjectAtRandom(wallTiles,wallCount.minimum,wallCount.maximum);
 
     }
 

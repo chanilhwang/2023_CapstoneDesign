@@ -289,98 +289,67 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &762930209
-GameObject:
+--- !u!1001 &1061891149
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 762930213}
-  - component: {fileID: 762930212}
-  - component: {fileID: 762930211}
-  - component: {fileID: 762930210}
-  m_Layer: 0
-  m_Name: GameManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &762930210
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762930209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06ff76f6ebb3bc741a788d6c9e3a9ae8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  boardScript: {fileID: 0}
---- !u!114 &762930211
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762930209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed7c62acc9b0c5d4f9dd0d0113c8016c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  columns: 16
-  rows: 16
-  wallCount:
-    minimum: 5
-    maximum: 9
-  exit: {fileID: 0}
-  floorTiles:
-  - {fileID: 7101448528625752606, guid: bf2b64b297b1f054cbf5fa50849c3f77, type: 3}
-  - {fileID: 7101448528625752606, guid: 75196fb9bebc07742b2223682223bd7d, type: 3}
-  - {fileID: 7101448528625752606, guid: 5cd3cfcb41c9d2140abf6bfbc6317400, type: 3}
-  - {fileID: 7101448528625752606, guid: 2ae562f8e8fd66444bc25fe84bb6526a, type: 3}
-  - {fileID: 7101448528625752606, guid: 012549b5e6b4a704e840fcaad7d9208b, type: 3}
-  - {fileID: 7101448528625752606, guid: dc4e2313733940f4abf2f4dcd34a0d1c, type: 3}
-  - {fileID: 7101448528625752606, guid: 6fd63b500e842b84a899339aa72d9a18, type: 3}
-  - {fileID: 7101448528625752606, guid: c66a49be80f294b409295e3a7fc5df1d, type: 3}
-  wallTiles:
-  - {fileID: 5383789809832204392, guid: 3d61fbea66336f7498980ed3b0a2386a, type: 3}
-  BackGroundTiles:
-  - {fileID: 3048451483526777210, guid: 3c708c9f88305d342b316efdd74dd42d, type: 3}
---- !u!114 &762930212
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762930209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0b41de61e89c04f4d9a0ac826b37ed94, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  boardScript: {fileID: 0}
-  level: 3
---- !u!4 &762930213
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762930209}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4433333363065031883, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_Name
+      value: Player Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4434890357453938601, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8ff6f1d36c4fe8b43aef2897f304f016, type: 3}
 --- !u!1 &1196705839
 GameObject:
   m_ObjectHideFlags: 0
@@ -685,7 +654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 740bacdeea13a754594634f1329df9f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
+  gameManager: {fileID: 5618533365630221923, guid: 209eaf448e7e38c47b8f97426bca5c6e, type: 3}
 --- !u!1 &1756877893
 GameObject:
   m_ObjectHideFlags: 0
@@ -799,7 +768,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1827432412
 MonoBehaviour:
   m_ObjectHideFlags: 0

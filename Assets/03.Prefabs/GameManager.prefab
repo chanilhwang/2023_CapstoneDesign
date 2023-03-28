@@ -31,7 +31,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4009995477442096140
 MonoBehaviour:
@@ -47,10 +47,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   columns: 32
   rows: 16
-  wallCount:
+  RoomCount:
     minimum: 5
     maximum: 9
   exit: {fileID: 0}
+  BossRoom: {fileID: 0}
+  ShopRoom: {fileID: 0}
+  Rooms:
+  - {fileID: 0}
+  BackGroundTiles:
+  - {fileID: 3048451483526777210, guid: 3c708c9f88305d342b316efdd74dd42d, type: 3}
   floorTiles:
   - {fileID: 7101448528625752606, guid: bf2b64b297b1f054cbf5fa50849c3f77, type: 3}
   - {fileID: 7101448528625752606, guid: 75196fb9bebc07742b2223682223bd7d, type: 3}
@@ -62,8 +68,6 @@ MonoBehaviour:
   - {fileID: 7101448528625752606, guid: c66a49be80f294b409295e3a7fc5df1d, type: 3}
   wallTiles:
   - {fileID: 5383789809832204392, guid: 3d61fbea66336f7498980ed3b0a2386a, type: 3}
-  BackGroundTiles:
-  - {fileID: 3048451483526777210, guid: 3c708c9f88305d342b316efdd74dd42d, type: 3}
 --- !u!114 &8214070352141888619
 MonoBehaviour:
   m_ObjectHideFlags: 0

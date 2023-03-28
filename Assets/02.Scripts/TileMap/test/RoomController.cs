@@ -32,7 +32,6 @@ public class RoomController : Singleton<RoomController>
         DungeonCrawlerController.Instance.CreatedRoom();
         SetRoomPath();
 
-
     }
 
     void SetRoomPath()

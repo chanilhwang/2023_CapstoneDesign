@@ -97,7 +97,8 @@ public class RoomManager : MonoBehaviour
     {
         int i = 0;
         int iAroundcnt = 0;
-        while(currRoomCnt != RoomCount.maximum)
+        //currRoomCnt != RoomCount.maximum
+        while (iAroundcnt<5)
         {
             while (0 == iAroundcnt)
             {

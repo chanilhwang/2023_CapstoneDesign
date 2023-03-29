@@ -1432,7 +1432,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &245748931
 MonoBehaviour:
@@ -1451,14 +1451,21 @@ MonoBehaviour:
   RoomCount:
     minimum: 5
     maximum: 9
+  xDistance: 18
+  yDistance: 10
   exit: {fileID: 0}
   BossRoom: {fileID: 0}
   ShopRoom: {fileID: 0}
+  StartRoom: {fileID: 1897323290}
   Rooms:
-  - {fileID: 1897323290}
+  - {fileID: 1330743057}
+  - {fileID: 1408947993}
+  - {fileID: 451022730}
+  - {fileID: 314175998}
   BackGroundTiles: []
   floorTiles: []
   wallTiles: []
+  RoomList: []
 --- !u!1 &314175998
 GameObject:
   m_ObjectHideFlags: 0
@@ -3577,63 +3584,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!1 &872635140
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 872635142}
-  - component: {fileID: 872635141}
-  m_Layer: 0
-  m_Name: RoomManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &872635141
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 872635140}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ed7c62acc9b0c5d4f9dd0d0113c8016c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  columns: 100
-  rows: 100
-  RoomCount:
-    minimum: 5
-    maximum: 9
-  exit: {fileID: 1897323290}
-  BossRoom: {fileID: 0}
-  ShopRoom: {fileID: 0}
-  Rooms:
-  - {fileID: 1897323290}
-  BackGroundTiles: []
-  floorTiles: []
-  wallTiles: []
---- !u!4 &872635142
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 872635140}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.780518, y: 12.886162, z: -0.74009115}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 11
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &996764670
 GameObject:
   m_ObjectHideFlags: 0

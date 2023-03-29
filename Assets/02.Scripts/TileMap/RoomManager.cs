@@ -26,7 +26,7 @@ public class RoomManager : MonoBehaviour
     private int currRoomCnt = 0;
     public int xDistance = 18;
     public int yDistance = 10;
-
+    private int iAroundcnt = 0;
 
     public GameObject exit;
     public GameObject BossRoom;
@@ -95,40 +95,38 @@ public class RoomManager : MonoBehaviour
     
     void CreateRoom()
     {
-        int i = 0;
-        int iAroundcnt = 0;
-        //currRoomCnt != RoomCount.maximum
-        while (iAroundcnt<5)
+        for(int i = 0; i < RoomCount.maximum ; i++)
         {
-            while (0 == iAroundcnt)
+            iAroundcnt = 0;
+            for(int j = 0; j <= 4; ++j)
             {
                 if (0 == Random.Range(0, 4))
                 {
                     AddRoom(i, new Vector3(0f, 10f, 0f));
-                    ++iAroundcnt;
                 }
                 if (1 == Random.Range(0, 4))
                 {
                     AddRoom(i, new Vector3(18f, 0f, 0f));
-                    ++iAroundcnt;
                 }
                 if (2 == Random.Range(0, 4))
                 {
                     AddRoom(i, new Vector3(0f, -10f, 0f));
-                    ++iAroundcnt;
                 }
                 if (3 == Random.Range(0, 4))
                 {
                     AddRoom(i, new Vector3(-18f, 0f, 0f));
-                    ++iAroundcnt;
                 }
             }
-            ++i;
+            
         }
+        //currRoomCnt != RoomCount.maximum
+        
     }
 
     void AddRoom(int listidx,Vector3 dir)
     {
+        if (iAroundcnt >= 4)
+            return;
         //Collider[] a = Physics.OverlapBox(RoomList[listidx].transform.position + dir,StartRoom.transform.localScale/2);
         //if(a == null)
         //{ return; }
@@ -137,6 +135,7 @@ public class RoomManager : MonoBehaviour
         instance.transform.SetParent((RoomList[listidx]).transform);
         RoomList.Add(instance);
         ++currRoomCnt;
+        ++iAroundcnt;
     }
 
     Vector3 RandomPosition()

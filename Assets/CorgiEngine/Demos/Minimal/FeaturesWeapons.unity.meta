@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebcd6de0032f6a946a11ce7c5c7e5b02
+timeCreated: 1459863179
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/FeaturesWeapons.unity
+  uploadId: 564989

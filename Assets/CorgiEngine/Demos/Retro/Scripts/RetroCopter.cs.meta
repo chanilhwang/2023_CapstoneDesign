@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01fcb4c515196ca4b8a0e1d91b4f1265
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Scripts/RetroCopter.cs
+  uploadId: 564989

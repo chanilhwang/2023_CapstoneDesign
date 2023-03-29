@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 472c7b4913a6f884d8c038b5063123a9
+timeCreated: 1434878659
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/license.txt
+  uploadId: 564989

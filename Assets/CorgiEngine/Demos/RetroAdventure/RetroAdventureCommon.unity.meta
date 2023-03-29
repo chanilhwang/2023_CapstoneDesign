@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0eb058f12c3408c4b96d7cbf99a15e7a
+timeCreated: 1513568811
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventureCommon.unity
+  uploadId: 564989

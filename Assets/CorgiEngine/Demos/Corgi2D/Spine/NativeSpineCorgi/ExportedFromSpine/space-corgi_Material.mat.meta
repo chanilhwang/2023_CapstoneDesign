@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e51238a1c7873ef4cb322038ed8237a8
+timeCreated: 1479938350
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Spine/NativeSpineCorgi/ExportedFromSpine/space-corgi_Material.mat
+  uploadId: 564989

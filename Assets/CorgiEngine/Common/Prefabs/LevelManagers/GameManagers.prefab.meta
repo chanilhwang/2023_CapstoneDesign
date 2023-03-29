@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6059d977d1f210348bfbe1a82f4f9883
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/LevelManagers/GameManagers.prefab
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7e346f13f8a1d349a1a00517778895c
+timeCreated: 1458946831
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Animations/RopeAnimation.anim
+  uploadId: 564989

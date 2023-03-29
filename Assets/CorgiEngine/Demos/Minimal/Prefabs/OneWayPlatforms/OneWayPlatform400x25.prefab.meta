@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b115bd337eefbe498ba383083f78409
+timeCreated: 1459163703
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/OneWayPlatforms/OneWayPlatform400x25.prefab
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e18c0a76c74ad447a99dbb75b60ccdd8
+timeCreated: 1450094156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/CylinderGrey.mat
+  uploadId: 564989

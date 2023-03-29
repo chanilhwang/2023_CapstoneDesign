@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1eafec1f9e8a9cf46a124d269981289e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/SpaceCorgi/spaceCorgiClimbMove.anim
+  uploadId: 564989

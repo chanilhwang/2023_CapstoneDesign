@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 69ac3640b321a7d49bcfc8497e9a7469
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Camera/RetroNoise.asset
+  uploadId: 564989

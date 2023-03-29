@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9b70a902441b3e4ba3892a0e63240c2
+timeCreated: 1444165477
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/SuperHipsterBros/Prefabs/Environment/HipsterCloud5.prefab
+  uploadId: 564989

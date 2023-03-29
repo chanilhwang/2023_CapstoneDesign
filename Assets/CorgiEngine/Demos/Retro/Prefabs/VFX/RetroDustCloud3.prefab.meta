@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2563229783ffcba4b88e111c965e3d7d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/VFX/RetroDustCloud3.prefab
+  uploadId: 564989

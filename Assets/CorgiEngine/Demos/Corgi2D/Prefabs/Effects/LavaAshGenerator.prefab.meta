@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d37df51dfc5c62d4089bebaf746aacd1
+timeCreated: 1427041772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Effects/LavaAshGenerator.prefab
+  uploadId: 564989

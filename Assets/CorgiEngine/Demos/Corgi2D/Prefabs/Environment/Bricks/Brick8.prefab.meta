@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1c48a1217d7c6444b100ae2ef9a17c4
+timeCreated: 1426550225
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Bricks/Brick8.prefab
+  uploadId: 564989

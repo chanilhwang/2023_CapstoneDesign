@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b79fb00a22e3d2d4b8d056ce0b2395ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/VFX/RetroYellowDeathParticles.prefab
+  uploadId: 564989

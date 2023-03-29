@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a46dae26a242ad748923ef372c7d34b5
+timeCreated: 1476632601
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/TheHunt/Prefabs/Environment/TempleWheel.prefab
+  uploadId: 564989

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b7d284d3909d9c7478a911516acdb2eb
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Materials/RetroSparksDark.mat
+  uploadId: 564989

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f3c44402238e5b34b86e1909455461ea
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/Ammo/RetroCannonIceBullet.prefab
+  uploadId: 564989

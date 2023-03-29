@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 76c776fa33f39154390b878dc4630c99
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/Music/BgMusicUniformMotionVictory.prefab
+  uploadId: 564989

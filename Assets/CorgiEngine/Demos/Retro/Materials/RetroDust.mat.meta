@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f0e84f126615c4432b13bcee92a2ff8b
+timeCreated: 1509812274
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Materials/RetroDust.mat
+  uploadId: 564989

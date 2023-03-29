@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4ae2473d7449f74b8a751b1364db695
+timeCreated: 1434568358
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/Environment/bonus-block-off.anim
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfd0ae3023bacba418913e92770304dc
+timeCreated: 1450055115
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsBlue/1xpoint5-ramp.prefab
+  uploadId: 564989

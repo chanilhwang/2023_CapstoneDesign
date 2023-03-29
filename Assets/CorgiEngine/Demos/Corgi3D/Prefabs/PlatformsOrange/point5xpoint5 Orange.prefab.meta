@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e1a61d6961f1ec4785a335920d78bef
+timeCreated: 1450055344
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsOrange/point5xpoint5
+    Orange.prefab
+  uploadId: 564989

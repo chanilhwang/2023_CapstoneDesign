@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07697ee55702baa4d8b6e5ea22c54893
+timeCreated: 1426546969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Mountains/MtnPlatform6.prefab
+  uploadId: 564989

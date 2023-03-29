@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06fbdff59b6b4ce42a2ce477d7db655d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Enemies/RetroBlobDash.prefab
+  uploadId: 564989

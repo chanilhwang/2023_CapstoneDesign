@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1888fd7255deebd458cfba33e8407e1f
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Materials/jetpackParticle.mat
+  uploadId: 564989

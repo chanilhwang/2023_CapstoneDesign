@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c07a8bb6f56342b43a5fc52974619244
+timeCreated: 1459175404
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Animations/RectangleDangling.anim
+  uploadId: 564989

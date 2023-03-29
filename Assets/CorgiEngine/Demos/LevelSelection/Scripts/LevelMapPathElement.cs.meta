@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3d2b87bb09a7ed749bd9ca36b2d2b66e
+timeCreated: 1452711468
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/LevelSelection/Scripts/LevelMapPathElement.cs
+  uploadId: 564989

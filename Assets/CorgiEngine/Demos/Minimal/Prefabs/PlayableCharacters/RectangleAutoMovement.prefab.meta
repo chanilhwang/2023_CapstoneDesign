@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79c9797f9fdb13048b08490c3c232ed5
+timeCreated: 1469092248
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/PlayableCharacters/RectangleAutoMovement.prefab
+  uploadId: 564989

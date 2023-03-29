@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 599041b39af0b9a4bb60da8b5cf6e9a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/GUI/MMFaderRound.prefab
+  uploadId: 564989

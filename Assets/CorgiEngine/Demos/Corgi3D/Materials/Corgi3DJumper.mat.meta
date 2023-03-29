@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ba769282b6765f14a9780439425f0a46
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/Corgi3DJumper.mat
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74274e4a94269634a953a77ff7947fc0
+timeCreated: 1459163730
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Slopes/Slope500x200.prefab
+  uploadId: 564989

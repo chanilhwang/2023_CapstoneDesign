@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 81b0aad1de69d854d8aa796e404c5724
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 299
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Environment/Pushable.cs
+  uploadId: 564989

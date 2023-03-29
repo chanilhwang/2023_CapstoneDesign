@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb8da86a580ca76489a03038ccb8b626
+timeCreated: 1450116617
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsOrange/4x1 Orange
+    Thin.prefab
+  uploadId: 564989

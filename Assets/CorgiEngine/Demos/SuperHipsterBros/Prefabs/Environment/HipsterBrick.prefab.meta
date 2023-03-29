@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5685ec9186afc2142b468c4f7eb8808b
+timeCreated: 1444166884
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/SuperHipsterBros/Prefabs/Environment/HipsterBrick.prefab
+  uploadId: 564989

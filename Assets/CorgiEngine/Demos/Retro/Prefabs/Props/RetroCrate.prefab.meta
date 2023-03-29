@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ffec0248e1f5545b7add5c7354363eb5
+timeCreated: 1508892548
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Props/RetroCrate.prefab
+  uploadId: 564989

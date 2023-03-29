@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7363bf9650e7f47c08c0fa0f46993c70
+timeCreated: 1430916554
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Animations/RetroRockAnimator.controller
+  uploadId: 564989

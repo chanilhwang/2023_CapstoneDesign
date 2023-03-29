@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 754e4c7874aa84596afc7a334e69d9d1
+timeCreated: 1427890837
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/PlayableCharacters/spine-space-pig.prefab
+  uploadId: 564989

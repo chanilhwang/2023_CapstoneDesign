@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6fe5ec382df584447ae0da1578c49fac
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/SpaceCorgi/spaceCorgiRun.anim
+  uploadId: 564989

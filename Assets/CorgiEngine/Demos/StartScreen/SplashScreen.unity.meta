@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b96552fd1198fa4eaae54a2f975645e
+timeCreated: 1452907529
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/StartScreen/SplashScreen.unity
+  uploadId: 564989

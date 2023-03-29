@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74f3d1331e3a9f6429d6a8c15956c63e
+timeCreated: 1444127861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/SuperHipsterBros/Prefabs/Environment/HipsterGroundDecoration.prefab
+  uploadId: 564989

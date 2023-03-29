@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6be6b5536e7cdfa4b8dea369e32707e5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/LevelManagers/MMSoundManager.prefab
+  uploadId: 564989

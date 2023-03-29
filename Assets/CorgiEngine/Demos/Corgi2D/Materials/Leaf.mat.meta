@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fdb9af8523db744d8d7819a1b3eaf75
+timeCreated: 1426700555
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Materials/Leaf.mat
+  uploadId: 564989

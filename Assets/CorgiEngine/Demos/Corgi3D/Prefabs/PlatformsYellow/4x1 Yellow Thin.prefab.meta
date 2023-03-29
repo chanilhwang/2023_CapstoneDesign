@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b0b124d00c122944a64fb68417efc63
+timeCreated: 1450116615
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsYellow/4x1 Yellow
+    Thin.prefab
+  uploadId: 564989

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f1c1a8bab4d234998bcbc559bb58fa11
+timeCreated: 1469102987
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Agents/CharacterAbilities/CharacterJump.cs
+  uploadId: 564989

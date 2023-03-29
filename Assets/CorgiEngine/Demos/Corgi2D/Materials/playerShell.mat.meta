@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 36059a6b5a5000a469004894f2d1d69e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Materials/playerShell.mat
+  uploadId: 564989

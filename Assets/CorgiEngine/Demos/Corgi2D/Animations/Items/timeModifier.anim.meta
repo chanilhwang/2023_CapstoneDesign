@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 42991ec1adbb1426887780a724a0c712
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/Items/timeModifier.anim
+  uploadId: 564989

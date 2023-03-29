@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 52bc6a361324ffd44b40a45efcaf56b5
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/SpaceCorgi/spaceCorgiShoot.anim
+  uploadId: 564989

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa35c5588078eb44ba38b3f5f248d74f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Editor/Agents/Weapons/WeaponEditor.cs
+  uploadId: 564989

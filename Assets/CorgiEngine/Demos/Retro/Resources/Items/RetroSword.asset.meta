@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bbf8c78fc0dee41a9afd1a6723e89949
+timeCreated: 1499414575
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Resources/Items/RetroSword.asset
+  uploadId: 564989

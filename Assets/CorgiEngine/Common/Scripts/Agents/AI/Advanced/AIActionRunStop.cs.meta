@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1197587a2d7c9324f9e4255615d7dec8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Agents/AI/Advanced/AIActionRunStop.cs
+  uploadId: 564989

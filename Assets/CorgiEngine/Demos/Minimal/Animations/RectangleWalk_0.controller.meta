@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23df9d92fa63dfd49afd3b6233788490
+timeCreated: 1459119170
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Animations/RectangleWalk_0.controller
+  uploadId: 564989

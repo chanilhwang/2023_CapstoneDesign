@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 021858c77d85c1e4a944245dd9e0cf08
+timeCreated: 1427033601
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Lava.unity
+  uploadId: 564989

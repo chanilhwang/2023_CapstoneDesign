@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e34a370d13054c34e98bec50a9c938e3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Enemies/RetroBlobWalkAndJump
+    1.prefab
+  uploadId: 564989

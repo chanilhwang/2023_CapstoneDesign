@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29846c98a0e1a42028b9c24b9b1b92f7
+timeCreated: 1433935812
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/Environment/bonus-block-hit.anim
+  uploadId: 564989

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 304802c89d19bf249b2833bd071fa591
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/GUI/startScreen.prefab
+  uploadId: 564989

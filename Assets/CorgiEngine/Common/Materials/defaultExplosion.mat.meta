@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7bdd477281eb8c7419c185bc63c4ed21
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Materials/defaultExplosion.mat
+  uploadId: 564989

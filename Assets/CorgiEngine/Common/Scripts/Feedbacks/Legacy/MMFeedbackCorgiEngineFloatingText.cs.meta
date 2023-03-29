@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df0f9b3bcfc411e4eaf14cecbcc4f6ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Feedbacks/Legacy/MMFeedbackCorgiEngineFloatingText.cs
+  uploadId: 564989

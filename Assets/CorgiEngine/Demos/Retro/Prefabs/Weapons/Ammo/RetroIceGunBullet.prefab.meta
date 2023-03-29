@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: faa01fbbf902496458a5576d86f2596f
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/Ammo/RetroIceGunBullet.prefab
+  uploadId: 564989

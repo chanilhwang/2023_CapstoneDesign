@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a2f0495692e6e344d887f9a7498a7595
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/SpaceCorgi/SpaceCorgiJump/spaceCorgiJump14.anim
+  uploadId: 564989

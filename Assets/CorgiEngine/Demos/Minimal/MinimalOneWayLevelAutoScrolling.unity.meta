@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cec1726c18982b84b8cf78b0b33025c7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/MinimalOneWayLevelAutoScrolling.unity
+  uploadId: 564989

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 422b620d4d9a2422e9d2824c0df1068e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Agents/CorgiController/CorgiControllerState.cs
+  uploadId: 564989

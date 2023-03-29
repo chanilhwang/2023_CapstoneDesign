@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 46d8131167564d6479c56a5cc8f753db
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Trees/Tree3.prefab
+  uploadId: 564989

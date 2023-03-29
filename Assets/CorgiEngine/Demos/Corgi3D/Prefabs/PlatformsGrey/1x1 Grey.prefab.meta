@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1eda0ae253d780d4db754b06d7833a77
+timeCreated: 1450047921
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsGrey/1x1 Grey.prefab
+  uploadId: 564989

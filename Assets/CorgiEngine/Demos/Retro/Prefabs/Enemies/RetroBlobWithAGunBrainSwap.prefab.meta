@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ae9d87fe63352c4392d91e46d8c2111
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Enemies/RetroBlobWithAGunBrainSwap.prefab
+  uploadId: 564989

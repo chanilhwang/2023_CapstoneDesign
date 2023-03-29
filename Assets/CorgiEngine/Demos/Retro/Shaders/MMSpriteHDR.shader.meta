@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df4e221784a6284439b1c69e5de2a8c6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Shaders/MMSpriteHDR.shader
+  uploadId: 564989

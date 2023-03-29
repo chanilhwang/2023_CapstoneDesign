@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dd64ea5df1ae0411b81609eafc4f345f
+timeCreated: 1509213453
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Tilemaps/RetroFence.asset
+  uploadId: 564989

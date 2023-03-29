@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2ce4f1b3943f45e4ca7b2ffe31bbbecf
+timeCreated: 1513740221
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/GUI/HeartsGUI.cs
+  uploadId: 564989

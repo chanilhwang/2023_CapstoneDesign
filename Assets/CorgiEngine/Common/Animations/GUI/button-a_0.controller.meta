@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c2fb4eea1c677a4497cace84061a376
+timeCreated: 1426926569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Animations/GUI/button-a_0.controller
+  uploadId: 564989

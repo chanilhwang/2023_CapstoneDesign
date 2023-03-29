@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38b3bbb0fec788241870d54b46b03e47
+timeCreated: 1513042377
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+  uploadId: 564989

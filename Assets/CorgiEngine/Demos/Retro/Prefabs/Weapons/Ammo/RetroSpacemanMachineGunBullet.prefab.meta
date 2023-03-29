@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7f4bb7f9537ba4978b4751fc618bc3f5
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/Ammo/RetroSpacemanMachineGunBullet.prefab
+  uploadId: 564989

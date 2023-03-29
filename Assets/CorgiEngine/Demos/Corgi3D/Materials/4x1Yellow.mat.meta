@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd8d390e9ab1b1b42bc7f197a9be56c3
+timeCreated: 1450115952
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/4x1Yellow.mat
+  uploadId: 564989

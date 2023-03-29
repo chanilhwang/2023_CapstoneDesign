@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1501b973994b0724ab7a866ffb8ad4be
+timeCreated: 1459165949
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/DestructibleBlock.prefab
+  uploadId: 564989

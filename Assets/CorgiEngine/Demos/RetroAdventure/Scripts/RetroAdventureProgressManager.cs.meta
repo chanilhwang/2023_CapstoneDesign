@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cf05f7dd8e4220748a9c4f4f6a2bc9a7
+timeCreated: 1513448844
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/RetroAdventure/Scripts/RetroAdventureProgressManager.cs
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3ffe2fb0b5c6f5f4181b9d0b4cbf6e51
+timeCreated: 1476543896
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/TheHunt/Models/Temple/temple.mtl
+  uploadId: 564989

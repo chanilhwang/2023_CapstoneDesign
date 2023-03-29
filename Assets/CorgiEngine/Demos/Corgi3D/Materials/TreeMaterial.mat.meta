@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8b4af8e94090de4dbc42953eac7f999
+timeCreated: 1450467517
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/TreeMaterial.mat
+  uploadId: 564989

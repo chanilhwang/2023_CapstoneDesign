@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4cc99f589f4913b4d9a92494746ba378
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/AI/robot_0.controller
+  uploadId: 564989

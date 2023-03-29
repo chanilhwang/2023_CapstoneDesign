@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 35722bb41d365874e8c35a5085a63030
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Scripts/Environment/CharacterOverrides/CorgiControllerPhysicsVolume2D.cs
+  uploadId: 564989

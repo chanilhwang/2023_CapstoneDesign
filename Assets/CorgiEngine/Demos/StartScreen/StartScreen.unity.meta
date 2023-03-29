@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b9cf7e391a5874f80a0485164885fe54
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/StartScreen/StartScreen.unity
+  uploadId: 564989

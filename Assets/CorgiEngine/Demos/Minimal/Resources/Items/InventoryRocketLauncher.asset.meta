@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3a73a061be4b2a4ab476a2548cd50f0
+timeCreated: 1499415229
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Resources/Items/InventoryRocketLauncher.asset
+  uploadId: 564989

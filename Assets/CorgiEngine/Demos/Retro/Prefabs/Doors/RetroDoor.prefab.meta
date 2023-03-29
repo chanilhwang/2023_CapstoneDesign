@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82bb24c4576a8c847ac38bfa6550f716
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Doors/RetroDoor.prefab
+  uploadId: 564989

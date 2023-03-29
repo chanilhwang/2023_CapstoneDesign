@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5c89a1c1072915d4fb9356e161ede976
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Effects/RocketExplosion.prefab
+  uploadId: 564989

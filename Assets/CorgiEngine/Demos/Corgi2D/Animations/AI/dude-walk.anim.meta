@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd35a54fcc8c49e42a3a3a36e9dc0bc1
+timeCreated: 1426709724
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/AI/dude-walk.anim
+  uploadId: 564989

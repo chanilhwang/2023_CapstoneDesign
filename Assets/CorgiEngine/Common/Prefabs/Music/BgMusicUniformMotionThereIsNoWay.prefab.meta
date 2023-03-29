@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 62ccb98dc1c9f504c97131ff150ddd65
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Prefabs/Music/BgMusicUniformMotionThereIsNoWay.prefab
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 098f477a0e6ff3b41bea070b4365f348
+timeCreated: 1444165479
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/SuperHipsterBros/Prefabs/Environment/HipsterPlant1.prefab
+  uploadId: 564989

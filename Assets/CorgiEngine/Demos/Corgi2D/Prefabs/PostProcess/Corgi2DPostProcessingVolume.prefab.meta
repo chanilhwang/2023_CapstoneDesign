@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7585748064830fa4d851eb973c305072
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/PostProcess/Corgi2DPostProcessingVolume.prefab
+  uploadId: 564989

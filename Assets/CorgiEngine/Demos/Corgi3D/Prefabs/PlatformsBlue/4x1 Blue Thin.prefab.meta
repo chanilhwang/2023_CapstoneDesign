@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be085640f3d368f4287741edddb4299d
+timeCreated: 1450116612
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsBlue/4x1 Blue Thin.prefab
+  uploadId: 564989

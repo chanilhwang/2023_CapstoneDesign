@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbf13aae436cca744a4d0cf1f0ad136b
+timeCreated: 1458947838
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Animations/RopeGripAnimation.anim
+  uploadId: 564989

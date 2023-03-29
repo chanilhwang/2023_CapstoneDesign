@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb9b4c4ecdb7414468ea2df8caa9d575
+timeCreated: 1474145156
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/TheHunt/Models/MachineGun/SoldierMachineGun.mtl
+  uploadId: 564989

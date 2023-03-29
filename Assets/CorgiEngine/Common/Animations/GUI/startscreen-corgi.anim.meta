@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85fa1ca71c77e1642a688fbf9a570e5c
+timeCreated: 1426926871
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Animations/GUI/startscreen-corgi.anim
+  uploadId: 564989

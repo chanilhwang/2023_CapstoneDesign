@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e6d1feccaf73694caff6fa0e4f53e2b
+timeCreated: 1450116240
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/PlatformsGreen/2x1 Green.prefab
+  uploadId: 564989

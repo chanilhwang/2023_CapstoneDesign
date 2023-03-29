@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59779310d5b654743a411b76f1d6046e
+timeCreated: 1426709679
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/AI/dude-idle.anim
+  uploadId: 564989

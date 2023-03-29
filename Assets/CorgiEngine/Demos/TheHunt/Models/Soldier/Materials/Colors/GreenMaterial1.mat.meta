@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 817b44caf746f14428f690f0144a6f2a
+timeCreated: 1474160774
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/TheHunt/Models/Soldier/Materials/Colors/GreenMaterial1.mat
+  uploadId: 564989

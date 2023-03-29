@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6273166d83ef4704e9ea6d38582902e7
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Weapons/Ammo/MinimalMachineGunBulletBouncy.prefab
+  uploadId: 564989

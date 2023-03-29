@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 272ba847f100d4251bb8260575189042
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Materials/sprite_lit.mat
+  uploadId: 564989

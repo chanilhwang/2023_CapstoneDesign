@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5caa62a4de87368498fcfd811bc58cf7
+timeCreated: 1450055202
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Materials/HalfGreen.mat
+  uploadId: 564989

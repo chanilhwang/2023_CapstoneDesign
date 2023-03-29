@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fb0d85cc76390a43a5e400ab06c0a3b
+timeCreated: 1471873820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Prefabs/AI/Blob3D.prefab
+  uploadId: 564989

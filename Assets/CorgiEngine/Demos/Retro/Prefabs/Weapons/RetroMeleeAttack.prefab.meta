@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bce026a1f5ce94779a54d3f0bc4bf7aa
+timeCreated: 1479910910
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/RetroMeleeAttack.prefab
+  uploadId: 564989

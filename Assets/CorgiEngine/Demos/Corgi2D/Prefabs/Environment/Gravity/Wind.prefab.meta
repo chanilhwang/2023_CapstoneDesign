@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a1bbedbeeb3f494fba2f0b3bc4075be
+timeCreated: 1427649112
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Gravity/Wind.prefab
+  uploadId: 564989

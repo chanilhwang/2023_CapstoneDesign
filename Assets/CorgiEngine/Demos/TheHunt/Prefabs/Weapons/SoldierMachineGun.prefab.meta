@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 340e872c47b0b144c95d0fb9ad7e30dc
+timeCreated: 1474145301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/TheHunt/Prefabs/Weapons/SoldierMachineGun.prefab
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11d208e4e06ce964d97295bc94fb8ba6
+timeCreated: 1459120317
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/JumpBlendTree/RectangleJump10.anim
+  uploadId: 564989

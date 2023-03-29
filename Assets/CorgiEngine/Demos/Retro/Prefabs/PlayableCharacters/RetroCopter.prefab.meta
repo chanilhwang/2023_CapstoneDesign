@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0721d332f76fcd47849b1050c66acec
+timeCreated: 1508875086
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/PlayableCharacters/RetroCopter.prefab
+  uploadId: 564989

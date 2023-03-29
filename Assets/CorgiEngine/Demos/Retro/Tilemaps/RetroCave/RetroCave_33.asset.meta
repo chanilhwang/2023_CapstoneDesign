@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 56784e4613f74e849267c23aa9eea320
+timeCreated: 1578107271
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Tilemaps/RetroCave/RetroCave_33.asset
+  uploadId: 564989

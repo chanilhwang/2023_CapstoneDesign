@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8244f4ca1b2bb014a8f877cf780c5658
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Animations/RetroBossRightGunIdle.anim
+  uploadId: 564989

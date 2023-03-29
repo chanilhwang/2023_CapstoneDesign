@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 99008e88ac04f1a45997d51439bcf4d1
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Effects/TouchTheGroundEffect.prefab
+  uploadId: 564989

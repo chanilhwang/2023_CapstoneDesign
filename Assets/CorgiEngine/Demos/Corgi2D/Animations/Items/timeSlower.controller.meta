@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: caa4cd4a12c3c44a9a941ec7d446c463
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Animations/Items/timeSlower.controller
+  uploadId: 564989

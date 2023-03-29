@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd1453e3579d3d54fbea79eb5ae1f2fa
+timeCreated: 1450037563
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi3D/Animations/threeD-animator.controller
+  uploadId: 564989

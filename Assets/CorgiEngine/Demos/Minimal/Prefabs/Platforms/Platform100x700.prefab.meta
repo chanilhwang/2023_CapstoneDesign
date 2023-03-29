@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e1745fda3f371114a9aa13be60e2053e
+timeCreated: 1459161851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Platforms/Platform100x700.prefab
+  uploadId: 564989

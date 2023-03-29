@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b9ff322989d8f0043b645ae70bd174e9
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Materials/Bubble.mat
+  uploadId: 564989

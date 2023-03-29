@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b01a8d422a17dc047a8f007bb674979a
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/AI/Cactus.prefab
+  uploadId: 564989

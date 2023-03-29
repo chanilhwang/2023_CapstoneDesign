@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 67e9e6648638ca94eaaa9e41373f42f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Camera/MinimalCameraRig.prefab
+  uploadId: 564989

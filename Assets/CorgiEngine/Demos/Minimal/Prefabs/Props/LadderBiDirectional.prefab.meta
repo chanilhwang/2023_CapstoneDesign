@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03dd11bb160cb834ca6cd6f34a90aa1c
+timeCreated: 1469649136
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/LadderBiDirectional.prefab
+  uploadId: 564989

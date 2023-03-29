@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e487adc3b642d6c40ae5748a561632b2
+timeCreated: 1459846287
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Surfaces/Mud.prefab
+  uploadId: 564989

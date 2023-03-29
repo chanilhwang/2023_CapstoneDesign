@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f693fa930bb2004bb7fa7778ca4db2f
+timeCreated: 1427834115
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Spine/SpaceCorgi/Baked/SpineSpaceCorgiAnimator.controller
+  uploadId: 564989

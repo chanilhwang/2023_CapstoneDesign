@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e120af3b8990a64d822d160a530833e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Props/RetroCarryCrate.prefab
+  uploadId: 564989

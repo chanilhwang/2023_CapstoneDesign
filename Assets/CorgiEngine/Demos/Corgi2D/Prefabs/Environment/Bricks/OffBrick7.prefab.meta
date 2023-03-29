@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a573e4c801d046b499ee6b1297458de9
+timeCreated: 1426549648
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Bricks/OffBrick7.prefab
+  uploadId: 564989

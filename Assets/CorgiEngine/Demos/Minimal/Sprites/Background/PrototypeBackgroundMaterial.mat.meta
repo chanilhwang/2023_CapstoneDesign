@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 133b0ff1159ab7b4298b20c9f9fb75fa
+timeCreated: 1459160984
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Sprites/Background/PrototypeBackgroundMaterial.mat
+  uploadId: 564989

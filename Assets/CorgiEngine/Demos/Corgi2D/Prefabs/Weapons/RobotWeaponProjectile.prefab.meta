@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2a90e8be32b24ea5b1ca3d9c3d7d298
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Weapons/RobotWeaponProjectile.prefab
+  uploadId: 564989

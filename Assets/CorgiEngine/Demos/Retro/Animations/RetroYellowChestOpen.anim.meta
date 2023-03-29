@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cc160ad38c30846d08e51c08cdd2120c
+timeCreated: 1509498453
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Animations/RetroYellowChestOpen.anim
+  uploadId: 564989

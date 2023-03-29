@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b8263c1e6abde2a4883502eb3bb2eee0
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Corgi2D/Prefabs/Environment/Mesa/Platform3.prefab
+  uploadId: 564989

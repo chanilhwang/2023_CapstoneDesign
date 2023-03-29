@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f35db27b90b9df34d9f911c5afae060d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Common/Animations/ButtonPrompt.controller
+  uploadId: 564989

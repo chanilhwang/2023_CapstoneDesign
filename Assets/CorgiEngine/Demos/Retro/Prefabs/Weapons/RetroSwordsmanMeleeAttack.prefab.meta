@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a19f1e154a56a684d8688ccf2851af42
+timeCreated: 1479910910
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/RetroSwordsmanMeleeAttack.prefab
+  uploadId: 564989

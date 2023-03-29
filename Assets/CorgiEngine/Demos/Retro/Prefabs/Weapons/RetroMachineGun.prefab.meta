@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a526816ccb05b4d45b5e05608ef451dc
+timeCreated: 1473175194
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Retro/Prefabs/Weapons/RetroMachineGun.prefab
+  uploadId: 564989

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a8f0a0d50e331745b716e95476716bf
+timeCreated: 1459167199
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26617
+  packageName: Corgi Engine - 2D + 2.5D Platformer
+  packageVersion: 8.3.1
+  assetPath: Assets/CorgiEngine/Demos/Minimal/Prefabs/Props/BlueGate.prefab
+  uploadId: 564989

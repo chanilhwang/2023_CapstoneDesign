@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using Random = UnityEngine.Random;
+using Unity.VisualScripting;
 
 public class RoomManager : MonoBehaviour
 {
@@ -30,6 +31,7 @@ public class RoomManager : MonoBehaviour
     public GameObject exit;
     public GameObject BossRoom;
     public GameObject ShopRoom;
+    public GameObject StartRoom;
     public GameObject[] Rooms;
 
     public GameObject[] BackGroundTiles;
@@ -60,11 +62,12 @@ public class RoomManager : MonoBehaviour
     {
         RoomHolder = new GameObject("Room").transform;
 
-        GameObject toInstantiate = Rooms[0];
+        GameObject toInstantiate = StartRoom;
         GameObject instance = Instantiate(toInstantiate, new Vector3(0f, 0f, 0f), Quaternion.identity);
         instance.transform.SetParent(RoomHolder);
         RoomList.Add(instance);
         ++currRoomCnt;
+        CreateRoom();
 
         //for (int i = -1; i < columns + 1; ++i)
         //{
@@ -92,28 +95,47 @@ public class RoomManager : MonoBehaviour
     
     void CreateRoom()
     {
-        for (int i = 0; i <= RoomCount.maximum; i++)
+        int i = 0;
+        int iAroundcnt = 0;
+        //currRoomCnt != RoomCount.maximum
+        while (iAroundcnt<5)
         {
-            if (currRoomCnt >= RoomCount.minimum && currRoomCnt <= RoomCount.maximum)
+            while (0 == iAroundcnt)
             {
-                if (Random.Range(0, 2) == 1)
+                if (0 == Random.Range(0, 4))
                 {
-                    if (Random.Range(0, 4) == 0)
-                    {
-                       // AddRoom(i, Vector3(0.f, 10.f, 0.f));
-                    }
+                    AddRoom(i, new Vector3(0f, 10f, 0f));
+                    ++iAroundcnt;
+                }
+                if (1 == Random.Range(0, 4))
+                {
+                    AddRoom(i, new Vector3(18f, 0f, 0f));
+                    ++iAroundcnt;
+                }
+                if (2 == Random.Range(0, 4))
+                {
+                    AddRoom(i, new Vector3(0f, -10f, 0f));
+                    ++iAroundcnt;
+                }
+                if (3 == Random.Range(0, 4))
+                {
+                    AddRoom(i, new Vector3(-18f, 0f, 0f));
+                    ++iAroundcnt;
                 }
             }
-            else
-                break;
+            ++i;
         }
     }
 
     void AddRoom(int listidx,Vector3 dir)
     {
-        GameObject toInstantiate = Rooms[Random.Range(1, Rooms.Length)];
+        //Collider[] a = Physics.OverlapBox(RoomList[listidx].transform.position + dir,StartRoom.transform.localScale/2);
+        //if(a == null)
+        //{ return; }
+        GameObject toInstantiate = Rooms[Random.Range(0, Rooms.Length)];
         GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position+dir, Quaternion.identity);
-       // instance.transform.SetParent(RoomList[listidx]);
+        instance.transform.SetParent((RoomList[listidx]).transform);
+        RoomList.Add(instance);
         ++currRoomCnt;
     }
 
@@ -129,14 +151,12 @@ public class RoomManager : MonoBehaviour
     {
         int objectCount = Random.Range (minimum, maximum + 1);
 
-        for(int i = 0; i < objectCount; ++i)
+        for (int i = 0; i < objectCount; ++i)
         {
             Vector3 randomPosition = RandomPosition();
             GameObject tileChoice = tileArray[Random.Range(0, tileArray.Length)];
             Instantiate(tileChoice,randomPosition,Quaternion.identity);
         }
-
-
     }
 
     public void SetupScene()

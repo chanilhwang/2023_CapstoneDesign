@@ -4,6 +4,7 @@ using UnityEngine;
 using System;
 using Random = UnityEngine.Random;
 using Unity.VisualScripting;
+using System.Security.Cryptography;
 
 public class RoomManager : MonoBehaviour
 {
@@ -32,6 +33,10 @@ public class RoomManager : MonoBehaviour
     public GameObject BossRoom;
     public GameObject ShopRoom;
     public GameObject StartRoom;
+
+
+    public GameObject[] Doors;
+
     public GameObject[] Rooms;
 
     public GameObject[] BackGroundTiles;
@@ -142,9 +147,78 @@ public class RoomManager : MonoBehaviour
         instance.transform.SetParent((RoomList[listidx]).transform);
         RoomList.Add(instance);
         rlist.Add(instance.transform.position);
+        NextRoomCheck(listidx);
         ++currRoomCnt;
         ++iAroundcnt;
     }
+
+    void AddDoor(int listidx,int dooridx)
+    {
+        switch (dooridx)
+        {
+            case 0:
+                {
+                    GameObject toInstantiate = Doors[0];
+                    GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position, Quaternion.identity);
+                    instance.transform.SetParent((RoomList[listidx]).transform);
+                    return;
+                }
+      
+            case 1:
+                {
+                    GameObject toInstantiate = Doors[1];
+                    GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position, Quaternion.identity);
+                    instance.transform.SetParent((RoomList[listidx]).transform);
+                    return;
+                    
+                }
+            case 2:
+                {
+                    GameObject toInstantiate = Doors[0];
+                    GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(0f,-9f,0f), Quaternion.identity);
+                    instance.transform.SetParent((RoomList[listidx]).transform);
+                    return;
+                    
+                }
+            case 3:
+                {
+                    GameObject toInstantiate = Doors[1];
+                    GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(-17f, 0f, 0f), Quaternion.identity);
+                    instance.transform.SetParent((RoomList[listidx]).transform);
+                    return;
+                }
+
+
+
+        }
+    }
+
+    void NextRoomCheck(int listidx)
+    {
+        int dooridx;
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(0f, 10f, 0f)))
+        {
+            dooridx = 0;
+            AddDoor(listidx, dooridx);
+        }
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(18f, 0f, 0f)))
+        {
+            dooridx = 1;
+            AddDoor(listidx, dooridx);
+        }
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(0f, -10f, 0f)))
+        {
+            dooridx = 2;
+            AddDoor(listidx, dooridx);
+        }
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(-18f, 0f, 0f)))
+        {
+            dooridx = 3;
+            AddDoor(listidx, dooridx);
+        }
+    }
+
+
 
     Vector3 RandomPosition()
     {

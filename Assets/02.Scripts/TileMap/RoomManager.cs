@@ -108,8 +108,6 @@ public class RoomManager : MonoBehaviour
     
     void CreateRoom()
     {
-
-        //while(currRoomCnt != RoomCount.maximum)
         for(int i=2; i< columns ; ++i)
         {
             iAroundcnt = 0;
@@ -133,7 +131,8 @@ public class RoomManager : MonoBehaviour
                 }
             }
             if(currRoomCnt >= RoomCount.minimum && currRoomCnt <= RoomCount.maximum ) { break; }
-        }        
+        }
+        NextRoomCheck2();
     }
 
     void AddRoom(int listidx,Vector3 dir)
@@ -147,10 +146,78 @@ public class RoomManager : MonoBehaviour
         instance.transform.SetParent((RoomList[listidx]).transform);
         RoomList.Add(instance);
         rlist.Add(instance.transform.position);
-        NextRoomCheck(listidx);
+        //NextRoomCheck(listidx);
+        
         ++currRoomCnt;
         ++iAroundcnt;
     }
+
+    void NextRoomCheck2()
+    {
+        foreach (GameObject Room in RoomList)
+        {
+            int dooridx;
+            if (rlist.Contains(Room.transform.position + new Vector3(0f, 10f, 0f)))
+            {
+                dooridx = 0;
+                AddDoor2(Room, dooridx);
+            }
+            if (rlist.Contains(Room.transform.position + new Vector3(18f, 0f, 0f)))
+            {
+                dooridx = 1;
+                AddDoor2(Room, dooridx);
+            }
+            if (rlist.Contains(Room.transform.position + new Vector3(0f, -10f, 0f)))
+            {
+                dooridx = 2;
+                AddDoor2(Room, dooridx);
+            }
+            if (rlist.Contains(Room.transform.position + new Vector3(-18f, 0f, 0f)))
+            {
+                dooridx = 3;
+                AddDoor2(Room, dooridx);
+            }
+        }
+    }
+
+    void AddDoor2(GameObject Room, int dooridx)
+    {
+        switch (dooridx)
+        {
+            case 0:
+                {
+                    GameObject toInstantiate = Doors[0];
+                    GameObject instance = Instantiate(toInstantiate, Room.transform.position, Quaternion.identity);
+                    instance.transform.SetParent((Room).transform);
+                    return;
+                }
+
+            case 1:
+                {
+                    GameObject toInstantiate = Doors[1];
+                    GameObject instance = Instantiate(toInstantiate, Room.transform.position, Quaternion.identity);
+                    instance.transform.SetParent((Room).transform);
+                    return;
+
+                }
+            case 2:
+                {
+                    GameObject toInstantiate = Doors[0];
+                    GameObject instance = Instantiate(toInstantiate, Room.transform.position + new Vector3(0f, -9f, 0f), Quaternion.identity);
+                    instance.transform.SetParent((Room).transform);
+                    return;
+
+                }
+            case 3:
+                {
+                    GameObject toInstantiate = Doors[1];
+                    GameObject instance = Instantiate(toInstantiate, Room.transform.position + new Vector3(-17f, 0f, 0f), Quaternion.identity);
+                    instance.transform.SetParent((Room).transform);
+                    return;
+                }
+        }
+    }
+
 
     void AddDoor(int listidx,int dooridx)
     {
@@ -187,9 +254,6 @@ public class RoomManager : MonoBehaviour
                     instance.transform.SetParent((RoomList[listidx]).transform);
                     return;
                 }
-
-
-
         }
     }
 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 898577a6d7ee2a046b5cfc652a73b72e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/SpineProjectFile/Character_Atlas.asset
+  uploadId: 494400

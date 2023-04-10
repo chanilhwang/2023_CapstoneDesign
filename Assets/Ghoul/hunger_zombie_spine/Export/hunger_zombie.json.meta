@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b8f304dd1511c742b7ef5faf8ae3c6a
+timeCreated: 1520244324
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie_spine/Export/hunger_zombie.json
+  uploadId: 235915

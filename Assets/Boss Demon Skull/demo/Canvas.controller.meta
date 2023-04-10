@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 625b1382c85ed4253a9b43e7755ec779
+timeCreated: 1509439338
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/demo/Canvas.controller
+  uploadId: 235915

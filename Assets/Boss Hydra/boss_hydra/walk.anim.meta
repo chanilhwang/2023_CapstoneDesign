@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9c4218d9e7f9f124c9f719c09e8cc65f
+timeCreated: 1520216567
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/walk.anim
+  uploadId: 236061

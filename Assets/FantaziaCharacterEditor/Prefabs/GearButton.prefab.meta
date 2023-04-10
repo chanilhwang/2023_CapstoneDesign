@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca29461f64a464745b2bb9eb39869842
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/Prefabs/GearButton.prefab
+  uploadId: 494400

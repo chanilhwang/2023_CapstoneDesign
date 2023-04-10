@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ea3b7c81912e9b40be3c0f547145989
+timeCreated: 1520215964
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/savagery.controller
+  uploadId: 235667

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b60d31d348d8e304496615163af4031b
+timeCreated: 1520216564
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/idle_2.anim
+  uploadId: 236061

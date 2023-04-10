@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f89522aa418e4f4998e6f1c10eb2bf0
+timeCreated: 1520216562
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/death.anim
+  uploadId: 236061

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c627718daf6843849a5e9bdaf7e4400
+timeCreated: 1514886370
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton_spine/Export/glutton.atlas
+  uploadId: 235406

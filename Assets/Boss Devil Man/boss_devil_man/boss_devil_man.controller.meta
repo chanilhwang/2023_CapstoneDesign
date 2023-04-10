@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 017765b7b7d953a42b4daca20261232e
+timeCreated: 1520299971
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/boss_devil_man.controller
+  uploadId: 236054

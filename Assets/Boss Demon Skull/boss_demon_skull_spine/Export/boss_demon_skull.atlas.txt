@@ -1,0 +1,408 @@
+
+boss_demon_skull.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_1
+  rotate: true
+  xy: 742, 329
+  size: 340, 198
+  orig: 340, 198
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 742, 671
+  size: 340, 198
+  orig: 340, 198
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 599, 36
+  size: 340, 198
+  orig: 340, 198
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 796, 240
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+ornament_1
+  rotate: true
+  xy: 942, 939
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+ornament_2
+  rotate: true
+  xy: 942, 790
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+ornament_3
+  rotate: true
+  xy: 942, 517
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+ornament_4
+  rotate: true
+  xy: 942, 475
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+ornament_5
+  rotate: true
+  xy: 709, 237
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+ornament_6
+  rotate: false
+  xy: 942, 572
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+pendant_1_1
+  rotate: false
+  xy: 1004, 502
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+pendant_1_2
+  rotate: false
+  xy: 999, 472
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+pendant_2_1
+  rotate: true
+  xy: 942, 776
+  size: 12, 67
+  orig: 12, 67
+  offset: 0, 0
+  index: -1
+pendant_2_2
+  rotate: false
+  xy: 994, 438
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+pendant_3_1
+  rotate: true
+  xy: 942, 453
+  size: 8, 45
+  orig: 8, 45
+  offset: 0, 0
+  index: -1
+pendant_3_2
+  rotate: true
+  xy: 942, 399
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+pendant_4_1
+  rotate: false
+  xy: 1011, 646
+  size: 10, 142
+  orig: 10, 142
+  offset: 0, 0
+  index: -1
+pendant_4_2
+  rotate: true
+  xy: 979, 411
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+pendant_5_1
+  rotate: true
+  xy: 942, 463
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+pendant_5_2
+  rotate: true
+  xy: 942, 421
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: true
+  xy: 942, 629
+  size: 145, 62
+  orig: 145, 62
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 599, 236
+  size: 108, 95
+  orig: 108, 95
+  offset: 0, 0
+  index: -1
+ribbon_3
+  rotate: false
+  xy: 599, 333
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+ribbon_4
+  rotate: false
+  xy: 942, 864
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+ribbon_5
+  rotate: false
+  xy: 895, 240
+  size: 85, 87
+  orig: 85, 87
+  offset: 0, 0
+  index: -1
+ribbon_6
+  rotate: false
+  xy: 1006, 541
+  size: 15, 103
+  orig: 15, 103
+  offset: 0, 0
+  index: -1
+skill1_11
+  rotate: false
+  xy: 2, 333
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_21
+  rotate: true
+  xy: 2, 2
+  size: 325, 595
+  orig: 325, 595
+  offset: 0, 0
+  index: -1
+skill2_11
+  rotate: false
+  xy: 2, 917
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+skill2_12
+  rotate: false
+  xy: 2, 821
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+skill2_13
+  rotate: false
+  xy: 2, 725
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+skill2_14
+  rotate: false
+  xy: 2, 629
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+skill2_15
+  rotate: false
+  xy: 2, 533
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+skill2_16
+  rotate: false
+  xy: 2, 437
+  size: 738, 94
+  orig: 738, 94
+  offset: 0, 0
+  index: -1
+
+boss_demon_skull2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 433
+  size: 660, 543
+  orig: 660, 543
+  offset: 0, 0
+  index: -1
+skill1_12
+  rotate: false
+  xy: 2, 2
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_22
+  rotate: true
+  xy: 2, 106
+  size: 325, 595
+  orig: 325, 595
+  offset: 0, 0
+  index: -1
+skill2_21
+  rotate: true
+  xy: 664, 312
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+
+boss_demon_skull3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1_13
+  rotate: false
+  xy: 2, 2
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill2_22
+  rotate: false
+  xy: 2, 714
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+skill2_23
+  rotate: false
+  xy: 2, 410
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+skill2_24
+  rotate: false
+  xy: 2, 106
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+skill2_25
+  rotate: true
+  xy: 668, 352
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+
+boss_demon_skull4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1_14
+  rotate: false
+  xy: 2, 2
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_23
+  rotate: false
+  xy: 668, 421
+  size: 325, 595
+  orig: 325, 595
+  offset: 0, 0
+  index: -1
+skill2_26
+  rotate: false
+  xy: 2, 714
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+skill2_27
+  rotate: false
+  xy: 2, 410
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+skill2_28
+  rotate: false
+  xy: 2, 106
+  size: 664, 302
+  orig: 664, 302
+  offset: 0, 0
+  index: -1
+
+boss_demon_skull5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill1_15
+  rotate: false
+  xy: 2, 106
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_16
+  rotate: true
+  xy: 656, 293
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_17
+  rotate: false
+  xy: 2, 2
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_18
+  rotate: true
+  xy: 760, 293
+  size: 512, 102
+  orig: 512, 102
+  offset: 0, 0
+  index: -1
+skill1_24
+  rotate: false
+  xy: 2, 210
+  size: 325, 595
+  orig: 325, 595
+  offset: 0, 0
+  index: -1
+skill1_25
+  rotate: false
+  xy: 329, 210
+  size: 325, 595
+  orig: 325, 595
+  offset: 0, 0
+  index: -1

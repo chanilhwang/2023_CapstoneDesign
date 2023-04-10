@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 80b84b7dbd9df3345959f04725d2c42e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/CharacterEditor_Scene.unity
+  uploadId: 494400

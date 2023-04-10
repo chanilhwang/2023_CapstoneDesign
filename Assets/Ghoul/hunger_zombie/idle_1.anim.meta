@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a885e799fd7c874d97e55f2030dd06c
+timeCreated: 1520244489
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/idle_1.anim
+  uploadId: 235915

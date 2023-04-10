@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06fe65a89533d1c48a91204d729c004f
+timeCreated: 1520221414
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103545
+  packageName: Pixel Polymer
+  packageVersion: 1.2
+  assetPath: Assets/Polymer/venom_polymer_spine/Project/venom_polymer.spine
+  uploadId: 235652

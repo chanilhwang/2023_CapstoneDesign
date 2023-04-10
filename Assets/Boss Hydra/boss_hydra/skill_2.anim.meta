@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a6ed2cd5d0317444e8e7f7ed0ea1c42e
+timeCreated: 1520216566
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/skill_2.anim
+  uploadId: 236061

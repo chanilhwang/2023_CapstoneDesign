@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7ae2ae0a90046e4f8f7cd405a42652b
+timeCreated: 1520212190
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage_spine/Export/skeleton_mage.json
+  uploadId: 235918

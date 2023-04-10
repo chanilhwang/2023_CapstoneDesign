@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7eaceaaa6297f9144b26d931df564014
+timeCreated: 1520302061
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear_spine/Export/cannibal_bear.json
+  uploadId: 234722

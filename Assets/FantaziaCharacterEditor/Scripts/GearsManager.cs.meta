@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14f09f0ed91a0e940b90ae4e56c48432
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/Scripts/GearsManager.cs
+  uploadId: 494400

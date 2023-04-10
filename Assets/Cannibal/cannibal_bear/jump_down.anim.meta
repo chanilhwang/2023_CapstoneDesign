@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c6dd17235d61ac43b42fbe8b936c73f
+timeCreated: 1520302082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/jump_down.anim
+  uploadId: 234722

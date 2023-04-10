@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46f5b131fca9308428b45a9c8a16123a
+timeCreated: 1520215968
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/skill_1.anim
+  uploadId: 235667

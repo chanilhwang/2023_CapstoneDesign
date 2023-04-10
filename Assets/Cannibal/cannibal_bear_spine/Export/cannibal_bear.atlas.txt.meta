@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4c1fc52fd1a4b848a0b497dba62bb21
+timeCreated: 1520302061
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear_spine/Export/cannibal_bear.atlas.txt
+  uploadId: 234722

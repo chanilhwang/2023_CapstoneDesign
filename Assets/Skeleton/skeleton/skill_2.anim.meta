@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 534b5965b2847924eae3dc87cd16f847
+timeCreated: 1520210859
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103555
+  packageName: Pixel Skeleton
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton/skeleton/skill_2.anim
+  uploadId: 235916

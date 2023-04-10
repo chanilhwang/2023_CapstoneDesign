@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9524deb70b1ded143a00bf539d489962
+timeCreated: 1520302790
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast/evade_2.anim
+  uploadId: 235417

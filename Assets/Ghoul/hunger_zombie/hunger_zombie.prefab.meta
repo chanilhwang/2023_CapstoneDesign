@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bd3a5e991dd1393469ecc760e2b779aa
+timeCreated: 1520244507
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/hunger_zombie.prefab
+  uploadId: 235915

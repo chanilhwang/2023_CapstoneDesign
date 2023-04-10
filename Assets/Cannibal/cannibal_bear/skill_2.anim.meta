@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 339665c62ee324e47be6ef45152ffb64
+timeCreated: 1520302084
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/skill_2.anim
+  uploadId: 234722

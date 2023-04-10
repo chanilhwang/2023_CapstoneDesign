@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 477b4a85f54824543b45a25fab03d2cb
+timeCreated: 1520212214
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage/evade_1.anim
+  uploadId: 235918

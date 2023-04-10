@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 175eb88250879f7479047267abb2b699
+timeCreated: 1520212218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage/walk.anim
+  uploadId: 235918

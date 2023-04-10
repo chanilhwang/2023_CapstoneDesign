@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55b20dec2250140489c0a77b9a26b6d5
+timeCreated: 1520302080
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/cannibal_bear.controller
+  uploadId: 234722

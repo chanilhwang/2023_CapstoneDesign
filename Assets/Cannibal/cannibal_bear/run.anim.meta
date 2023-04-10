@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c4472506b010f74080ce559ffec3318
+timeCreated: 1520302083
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/run.anim
+  uploadId: 234722

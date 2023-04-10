@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96dbd2b7ef468e149bef55285252d397
+timeCreated: 1520215885
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery_spine/Project/savagery.spine
+  uploadId: 235667

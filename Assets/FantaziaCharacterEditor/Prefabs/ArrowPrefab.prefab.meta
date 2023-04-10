@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc06286fb4ae27745b357c9f6f22f6b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/Prefabs/ArrowPrefab.prefab
+  uploadId: 494400

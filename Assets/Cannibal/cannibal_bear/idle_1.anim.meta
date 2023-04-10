@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06ec7dffaac94f647b7a85c7fef33435
+timeCreated: 1520302081
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/idle_1.anim
+  uploadId: 234722

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c434354a51557c1488398832439d2fc1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/SpineProjectFile/Character_Character3.mat
+  uploadId: 494400

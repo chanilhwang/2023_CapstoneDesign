@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a22ccaf89a04f644893decdd7a7e6095
+timeCreated: 1520302793
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast/run.anim
+  uploadId: 235417

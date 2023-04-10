@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fa16f7d1ed524394cb09b0553c147b2a
+timeCreated: 1520210855
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103555
+  packageName: Pixel Skeleton
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton/skeleton/hit_1.anim
+  uploadId: 235916

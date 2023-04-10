@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98cf6ea57ff25314892cd6a0b18b44bd
+timeCreated: 1520215966
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/idle_1.anim
+  uploadId: 235667

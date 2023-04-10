@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e6310947d6ef5a4686301f6f74375e1
+timeCreated: 1520244492
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/skill_3.anim
+  uploadId: 235915

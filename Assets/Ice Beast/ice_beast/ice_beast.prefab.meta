@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 660d3c902e8e56a41bd067c805b96d40
+timeCreated: 1520302819
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast/ice_beast.prefab
+  uploadId: 235417

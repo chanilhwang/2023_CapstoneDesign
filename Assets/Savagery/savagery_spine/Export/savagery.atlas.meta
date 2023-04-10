@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5fcd4be33e2eb480085cdb75230f79d8
+timeCreated: 1515038869
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery_spine/Export/savagery.atlas
+  uploadId: 235667

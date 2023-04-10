@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d564495f6a3ae8349a48b8970ddcf8e5
+timeCreated: 1520302080
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/hit_1.anim
+  uploadId: 234722

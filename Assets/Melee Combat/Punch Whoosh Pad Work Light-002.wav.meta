@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 61d6acb411e310a428c658fe9a76cf7d
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 235115
+  packageName: Melee Combat SFX
+  packageVersion: 1.0
+  assetPath: Assets/Melee Combat/Punch Whoosh Pad Work Light-002.wav
+  uploadId: 532437

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af753c1856c431d46ae000a71af8503a
+timeCreated: 1520244487
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/hunger_zombie.controller
+  uploadId: 235915

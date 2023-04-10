@@ -1,0 +1,340 @@
+
+savagery.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_2
+  rotate: true
+  xy: 938, 56
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+arm_l_3
+  rotate: true
+  xy: 106, 7
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: true
+  xy: 152, 17
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: true
+  xy: 2, 11
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+arm_r_3
+  rotate: true
+  xy: 58, 11
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 848, 53
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 940, 250
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+buttock
+  rotate: true
+  xy: 940, 162
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 940, 102
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 1000, 6
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+leg_l_1
+  rotate: true
+  xy: 246, 9
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 288, 9
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+leg_l_3
+  rotate: false
+  xy: 364, 27
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 328, 11
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+leg_r_2
+  rotate: true
+  xy: 202, 15
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+leg_r_3
+  rotate: true
+  xy: 1002, 124
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 938, 2
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+skill2_11
+  rotate: true
+  xy: 940, 677
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_12
+  rotate: false
+  xy: 2, 47
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_13
+  rotate: true
+  xy: 940, 330
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_14
+  rotate: false
+  xy: 349, 47
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_21
+  rotate: false
+  xy: 2, 721
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill2_22
+  rotate: false
+  xy: 2, 418
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill2_23
+  rotate: false
+  xy: 471, 721
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill2_24
+  rotate: false
+  xy: 2, 115
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill2_25
+  rotate: false
+  xy: 471, 418
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill2_26
+  rotate: false
+  xy: 471, 115
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 696, 55
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+
+savagery2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_1
+  rotate: true
+  xy: 310, 46
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 370, 46
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 430, 46
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 490, 44
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+skill1_1
+  rotate: false
+  xy: 471, 643
+  size: 306, 336
+  orig: 306, 336
+  offset: 0, 0
+  index: -1
+skill1_2
+  rotate: false
+  xy: 2, 340
+  size: 306, 336
+  orig: 306, 336
+  offset: 0, 0
+  index: -1
+skill1_3
+  rotate: false
+  xy: 2, 2
+  size: 306, 336
+  orig: 306, 336
+  offset: 0, 0
+  index: -1
+skill1_4
+  rotate: true
+  xy: 446, 335
+  size: 306, 336
+  orig: 306, 336
+  offset: 0, 0
+  index: -1
+skill2_15
+  rotate: true
+  xy: 310, 331
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_16
+  rotate: true
+  xy: 378, 331
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_17
+  rotate: false
+  xy: 610, 267
+  size: 345, 66
+  orig: 345, 66
+  offset: 0, 0
+  index: -1
+skill2_27
+  rotate: false
+  xy: 2, 678
+  size: 467, 301
+  orig: 467, 301
+  offset: 0, 0
+  index: -1
+skill3_1
+  rotate: false
+  xy: 779, 681
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1
+skill3_2
+  rotate: false
+  xy: 784, 381
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1
+skill3_3
+  rotate: true
+  xy: 610, 40
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1
+skill3_6
+  rotate: true
+  xy: 310, 104
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1
+
+savagery3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill3_4
+  rotate: true
+  xy: 2, 2
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1
+skill3_5
+  rotate: true
+  xy: 302, 2
+  size: 225, 298
+  orig: 225, 298
+  offset: 0, 0
+  index: -1

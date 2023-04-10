@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fc9a8cde071cc34ca60927245b71d3e
+timeCreated: 1520049746
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104654
+  packageName: 'Boss: Pixel Demon Skull'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/boss_demon_skull/idle_1.anim
+  uploadId: 236033

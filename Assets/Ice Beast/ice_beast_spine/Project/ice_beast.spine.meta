@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 927d65563e395c94cad62d48a2534f3d
+timeCreated: 1520302692
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast_spine/Project/ice_beast.spine
+  uploadId: 235417

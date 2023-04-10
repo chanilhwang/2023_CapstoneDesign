@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e560df2a2b11fc34a9c66c7e506b6a5a
+timeCreated: 1520299972
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/run.anim
+  uploadId: 236054

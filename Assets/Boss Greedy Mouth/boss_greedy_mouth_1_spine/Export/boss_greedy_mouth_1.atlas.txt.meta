@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87371063f2535b942bb8d170116527b4
+timeCreated: 1520242653
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104663
+  packageName: 'Boss: Pixel Greedy Mouth'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Greedy Mouth/boss_greedy_mouth_1_spine/Export/boss_greedy_mouth_1.atlas.txt
+  uploadId: 236060

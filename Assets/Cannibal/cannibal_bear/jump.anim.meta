@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca370043e3f013a4589a063ef16a689e
+timeCreated: 1520302082
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/jump.anim
+  uploadId: 234722

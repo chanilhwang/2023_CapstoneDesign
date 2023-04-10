@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1318097817bb0946a0d0555668a3601
+timeCreated: 1520299973
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/skill_1.anim
+  uploadId: 236054

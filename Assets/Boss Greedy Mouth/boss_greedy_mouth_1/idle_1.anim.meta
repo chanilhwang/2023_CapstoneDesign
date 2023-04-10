@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d00eb470b921d54dbdb49b625a74f73
+timeCreated: 1520242793
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104663
+  packageName: 'Boss: Pixel Greedy Mouth'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Greedy Mouth/boss_greedy_mouth_1/idle_1.anim
+  uploadId: 236060

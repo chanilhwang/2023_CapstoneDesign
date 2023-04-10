@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc1637434d7a7234abbf946dd5f2347d
+timeCreated: 1520244488
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/evade_1.anim
+  uploadId: 235915

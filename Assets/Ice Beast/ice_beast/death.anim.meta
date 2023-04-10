@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4be976c0d7809de458b240f82a693ec8
+timeCreated: 1520302789
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast/death.anim
+  uploadId: 235417

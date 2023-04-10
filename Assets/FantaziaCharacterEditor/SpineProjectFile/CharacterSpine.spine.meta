@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0411c9411b6b6da48b4ddea444aa9954
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/SpineProjectFile/CharacterSpine.spine
+  uploadId: 494400

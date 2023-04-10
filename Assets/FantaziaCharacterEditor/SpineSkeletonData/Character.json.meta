@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c17363dbb3c08e459dcacf4abbb5f4f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/SpineSkeletonData/Character.json
+  uploadId: 494400

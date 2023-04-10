@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7b433b7add69e784ebcb5b682ee7310f
+timeCreated: 1520299972
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/idle_1.anim
+  uploadId: 236054

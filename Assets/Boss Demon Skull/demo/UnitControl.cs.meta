@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 93017953ccd50414cb1871c8e4883928
+timeCreated: 1509436768
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/demo/UnitControl.cs
+  uploadId: 235915

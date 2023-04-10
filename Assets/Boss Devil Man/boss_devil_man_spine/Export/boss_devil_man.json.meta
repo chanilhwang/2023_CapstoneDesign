@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b95621e4355911c4b906857103968425
+timeCreated: 1520299813
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man_spine/Export/boss_devil_man.json
+  uploadId: 236054

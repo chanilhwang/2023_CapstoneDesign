@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7cc56bfb7e5209248be89574846e0e81
+timeCreated: 1520215967
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/run.anim
+  uploadId: 235667

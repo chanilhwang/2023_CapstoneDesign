@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6fd661973e3cb94497b8438e6ebe9fc
+timeCreated: 1520210756
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103555
+  packageName: Pixel Skeleton
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton/skeleton_spine/Project/skeleton.spine
+  uploadId: 235916

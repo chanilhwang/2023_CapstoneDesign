@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be0f3cd47ced85340a39d04a8b158fd5
+timeCreated: 1520216583
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/boss_hydra.prefab
+  uploadId: 236061

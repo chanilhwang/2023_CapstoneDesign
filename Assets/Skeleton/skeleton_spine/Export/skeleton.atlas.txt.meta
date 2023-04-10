@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 285eb892041b1dd40a8822d0478c5b44
+timeCreated: 1520210779
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103555
+  packageName: Pixel Skeleton
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton/skeleton_spine/Export/skeleton.atlas.txt
+  uploadId: 235916

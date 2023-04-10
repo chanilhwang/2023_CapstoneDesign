@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc75f78e33681214d8b0738b4cbfa9b6
+timeCreated: 1520299971
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/hit_1.anim
+  uploadId: 236054

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29d3fe3cca8826048bd107a8f46bca0b
+timeCreated: 1520244060
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton/idle_2.anim
+  uploadId: 235406

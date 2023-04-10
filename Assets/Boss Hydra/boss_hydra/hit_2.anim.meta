@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d02f88dc04c52e94ca79b9b78b453e1e
+timeCreated: 1520216563
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra/hit_2.anim
+  uploadId: 236061

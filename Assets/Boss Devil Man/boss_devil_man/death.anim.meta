@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a825607f3f0cc34997f032d46569f8f
+timeCreated: 1520299971
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/death.anim
+  uploadId: 236054

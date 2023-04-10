@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94451916d1e1e9f43b759e8cc7af978c
+timeCreated: 1520049747
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104654
+  packageName: 'Boss: Pixel Demon Skull'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/boss_demon_skull/run.anim
+  uploadId: 236033

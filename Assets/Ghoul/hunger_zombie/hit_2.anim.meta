@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 676cb7e09d106ff41847005fb157c315
+timeCreated: 1520244489
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/hit_2.anim
+  uploadId: 235915

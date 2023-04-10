@@ -1,0 +1,188 @@
+
+cannibal_bear.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_1
+  rotate: false
+  xy: 402, 262
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+arm_l_2
+  rotate: true
+  xy: 500, 352
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+arm_l_3
+  rotate: false
+  xy: 402, 194
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+arm_r_1
+  rotate: false
+  xy: 464, 270
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+arm_r_2
+  rotate: false
+  xy: 500, 292
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+arm_r_3
+  rotate: false
+  xy: 904, 462
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 602, 418
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+buttock
+  rotate: false
+  xy: 202, 75
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 402, 336
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 730, 446
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 296, 107
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 828, 456
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 44, 4
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+leg_l_1
+  rotate: false
+  xy: 2, 2
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+leg_l_2
+  rotate: false
+  xy: 542, 310
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+leg_l_3
+  rotate: false
+  xy: 730, 422
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: false
+  xy: 100, 8
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+leg_r_2
+  rotate: true
+  xy: 296, 75
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+leg_r_3
+  rotate: false
+  xy: 500, 270
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+skill1_1
+  rotate: false
+  xy: 2, 283
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+skill1_2
+  rotate: false
+  xy: 2, 54
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+skill1_3
+  rotate: false
+  xy: 202, 283
+  size: 198, 227
+  orig: 198, 227
+  offset: 0, 0
+  index: -1
+skill2_1
+  rotate: false
+  xy: 202, 228
+  size: 198, 53
+  orig: 198, 53
+  offset: 0, 0
+  index: -1
+skill2_2
+  rotate: false
+  xy: 402, 457
+  size: 198, 53
+  orig: 198, 53
+  offset: 0, 0
+  index: -1
+skill2_3
+  rotate: false
+  xy: 202, 173
+  size: 198, 53
+  orig: 198, 53
+  offset: 0, 0
+  index: -1
+skill2_4
+  rotate: false
+  xy: 402, 402
+  size: 198, 53
+  orig: 198, 53
+  offset: 0, 0
+  index: -1

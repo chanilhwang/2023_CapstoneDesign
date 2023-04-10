@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c1bd84c5d56dcf4a802e0c51b879ed2
+timeCreated: 1520049509
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104654
+  packageName: 'Boss: Pixel Demon Skull'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/boss_demon_skull_spine/Export/boss_demon_skull.atlas.txt
+  uploadId: 236033

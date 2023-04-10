@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06aaca7fa49730c4881d0c3465c31708
+timeCreated: 1520215985
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/savagery.prefab
+  uploadId: 235667

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4c64c9b094b5dad46a415c4b6551f0a8
+timeCreated: 1520300003
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104656
+  packageName: 'Boss: Pixel Devil Man'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Devil Man/boss_devil_man/boss_devil_man.prefab
+  uploadId: 236054

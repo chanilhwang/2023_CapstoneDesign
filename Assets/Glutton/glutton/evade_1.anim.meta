@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 75a87c24d58b2e34cabb22a755194c89
+timeCreated: 1520244058
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton/evade_1.anim
+  uploadId: 235406

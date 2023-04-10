@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d17e8ac6f217fa42a9ab4e51b28b038
+timeCreated: 1520212218
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage/skill_3.anim
+  uploadId: 235918

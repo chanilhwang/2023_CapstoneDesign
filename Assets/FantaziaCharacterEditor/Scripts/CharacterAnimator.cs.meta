@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b2bba9ebabf64764cbf166968f7deb86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/Scripts/CharacterAnimator.cs
+  uploadId: 494400

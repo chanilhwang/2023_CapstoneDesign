@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fbee4dea0f025646a9cae9edaf08bbd
+timeCreated: 1520243979
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton_spine/Export/glutton.json
+  uploadId: 235406

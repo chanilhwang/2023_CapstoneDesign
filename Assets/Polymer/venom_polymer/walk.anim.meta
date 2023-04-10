@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1afc21358868885498e8c38454bdcfd4
+timeCreated: 1520221492
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103545
+  packageName: Pixel Polymer
+  packageVersion: 1.2
+  assetPath: Assets/Polymer/venom_polymer/walk.anim
+  uploadId: 235652

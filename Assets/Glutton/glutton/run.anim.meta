@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 444c0bbe73e08bf44a1157f9f0c06e43
+timeCreated: 1520244060
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton/run.anim
+  uploadId: 235406

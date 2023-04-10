@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 88a989a93fe24ee479e1e7440119edda
+timeCreated: 1520242794
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104663
+  packageName: 'Boss: Pixel Greedy Mouth'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Greedy Mouth/boss_greedy_mouth_1/skill_1.anim
+  uploadId: 236060

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a02f528c0e35004186271f0351e0600
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181572
+  packageName: Character Editor (Fantazia)
+  packageVersion: 2.1
+  assetPath: Assets/FantaziaCharacterEditor/SpineSkeletonData/Character.atlas.txt
+  uploadId: 494400

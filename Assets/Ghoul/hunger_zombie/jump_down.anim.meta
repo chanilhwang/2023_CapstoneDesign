@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bfeae894e036bc048be5c53d4991a3a8
+timeCreated: 1520244490
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103527
+  packageName: Pixel Ghoul
+  packageVersion: 1.2
+  assetPath: Assets/Ghoul/hunger_zombie/jump_down.anim
+  uploadId: 235915

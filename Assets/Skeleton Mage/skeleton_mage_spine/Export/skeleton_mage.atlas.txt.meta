@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dcf33ca96a64db46af1a20ca455b682
+timeCreated: 1520212190
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage_spine/Export/skeleton_mage.atlas.txt
+  uploadId: 235918

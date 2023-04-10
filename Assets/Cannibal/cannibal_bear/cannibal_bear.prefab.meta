@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6da7cf18c59d6f0439cdce66a760113a
+timeCreated: 1520302108
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103517
+  packageName: Pixel Cannibal
+  packageVersion: 1.2
+  assetPath: Assets/Cannibal/cannibal_bear/cannibal_bear.prefab
+  uploadId: 234722

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11bc983ef4b51bc49a1b3796d57c05e9
+timeCreated: 1520302793
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103530
+  packageName: Pixel Ice Beast
+  packageVersion: 1.2
+  assetPath: Assets/Ice Beast/ice_beast/skill_1.anim
+  uploadId: 235417

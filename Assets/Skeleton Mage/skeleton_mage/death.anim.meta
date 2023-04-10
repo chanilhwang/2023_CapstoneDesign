@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68c61937caba6f542914c7431c7bf4c4
+timeCreated: 1520212214
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103557
+  packageName: Pixel Skeleton Mage
+  packageVersion: 1.2
+  assetPath: Assets/Skeleton Mage/skeleton_mage/death.anim
+  uploadId: 235918

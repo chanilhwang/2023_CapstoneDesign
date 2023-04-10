@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3b19b58e4106ce44a77dcd2d6bcb318
+timeCreated: 1520215965
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/hit_2.anim
+  uploadId: 235667

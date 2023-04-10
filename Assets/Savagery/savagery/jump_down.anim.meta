@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f0bd0ba3d836dc449a961511e8d346b
+timeCreated: 1520215967
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103553
+  packageName: Pixel Savagery
+  packageVersion: 1.2
+  assetPath: Assets/Savagery/savagery/jump_down.anim
+  uploadId: 235667

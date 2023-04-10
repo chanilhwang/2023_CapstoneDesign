@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6c6d9482e9692d4bbc33c7a887797bc
+timeCreated: 1520216440
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104664
+  packageName: 'Boss: Pixel Hydra'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Hydra/boss_hydra_spine/Export/boss_hydra.json
+  uploadId: 236061

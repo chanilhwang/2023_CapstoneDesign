@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4f1d8ba37de60a42a11a6cd07714bfb
+timeCreated: 1520049745
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 104654
+  packageName: 'Boss: Pixel Demon Skull'
+  packageVersion: 1.2
+  assetPath: Assets/Boss Demon Skull/boss_demon_skull/hit_1.anim
+  uploadId: 236033

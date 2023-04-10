@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc2e3d56fc9bfdc44a00e705543c15ff
+timeCreated: 1520244058
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103528
+  packageName: Pixel Glutton
+  packageVersion: 1.2
+  assetPath: Assets/Glutton/glutton/glutton.controller
+  uploadId: 235406

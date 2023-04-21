@@ -5,6 +5,7 @@ using System;
 using Random = UnityEngine.Random;
 using Unity.VisualScripting;
 using System.Security.Cryptography;
+using UnityEngine.Tilemaps;
 
 public class RoomManager : MonoBehaviour
 {
@@ -31,7 +32,7 @@ public class RoomManager : MonoBehaviour
 
     public GameObject exit;
     public GameObject BossRoom;
-    public GameObject ShopRoom;
+    public GameObject StoreRoom;
     public GameObject StartRoom;
 
 
@@ -45,11 +46,22 @@ public class RoomManager : MonoBehaviour
 
     public List<Vector3> rlist = new List<Vector3>();
 
-    public List<RoomInfo> validRoomList = new List<RoomInfo> ();
+    public List<RoomInfo> validRoomList = new List<RoomInfo>();
     public List<GameObject> RoomList;
     private Transform RoomHolder;
     private List<Vector3> gridPositions = new List<Vector3>();
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+            Renderer render = RoomList[0].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+
+            Debug.Log(render.bounds.size.x);
+            Debug.Log(render.bounds.size.y);
+
+        }
+    }
     
 
     void InitializeList()
@@ -71,6 +83,7 @@ public class RoomManager : MonoBehaviour
 
         StartRoomSet();
         CreateRoom();
+        BossRoomSet();
 
         //for (int i = -1; i < columns + 1; ++i)
         //{
@@ -102,35 +115,123 @@ public class RoomManager : MonoBehaviour
         RoomList.Add(instance);
         rlist.Add(instance.transform.position);
         ++currRoomCnt;
-        AddRoom(0, new Vector3(18f, 0f, 0f));
-        AddRoom(1, new Vector3(18f, 0f, 0f));
+        AddRightRoom(0);
+        AddRightRoom(1);
     }
-    
+
+    void BossRoomSet()
+    {
+        Renderer render = RoomList[currRoomCnt-1].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+        GameObject toInstantiate = BossRoom;
+        GameObject instance = Instantiate(toInstantiate, RoomList[currRoomCnt - 1].transform.position + new Vector3(render.bounds.size.x+1f, 0f, 0f), Quaternion.identity);
+        instance.transform.SetParent((RoomList[currRoomCnt - 1]).transform);
+        RoomList.Add(instance);
+        rlist.Add(instance.transform.position);
+        ++currRoomCnt;
+    }
+    //Renderer render = RoomList[0].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+
+    //        Debug.Log(render.bounds.size.x);
+    //        Debug.Log(render.bounds.size.y);
+
+    void AddRightRoom(int listidx)
+    {
+        GameObject toInstantiate = Rooms[Random.Range(0, Rooms.Length)];
+        Renderer render = RoomList[listidx].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+        if (iAroundcnt >= 4)
+            return;
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(render.bounds.size.x, 0f, 0f)))
+            return;
+        GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(render.bounds.size.x, 0f, 0f), Quaternion.identity);
+        instance.transform.SetParent((RoomList[listidx]).transform);
+        RoomList.Add(instance);
+        rlist.Add(instance.transform.position);
+        //NextRoomCheck(listidx);
+
+        ++currRoomCnt;
+        ++iAroundcnt;
+    }
+    void AddLeftRoom(int listidx)
+    {
+        GameObject toInstantiate = Rooms[Random.Range(0, Rooms.Length)];
+        Renderer render = RoomList[listidx].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+        if (iAroundcnt >= 4)
+            return;
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(-render.bounds.size.x, 0f, 0f)))
+            return;
+        GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(-render.bounds.size.x, 0f, 0f), Quaternion.identity);
+        instance.transform.SetParent((RoomList[listidx]).transform);
+        RoomList.Add(instance);
+        rlist.Add(instance.transform.position);
+        //NextRoomCheck(listidx);
+
+        ++currRoomCnt;
+        ++iAroundcnt;
+    }
+
+    void AddUpRoom(int listidx)
+    {
+        GameObject toInstantiate = Rooms[Random.Range(0, Rooms.Length)];
+        Renderer render = RoomList[listidx].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+        if (iAroundcnt >= 4)
+            return;
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(0f, render.bounds.size.y, 0f)))
+            return;
+        GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(0f, render.bounds.size.y, 0f), Quaternion.identity);
+        instance.transform.SetParent((RoomList[listidx]).transform);
+        RoomList.Add(instance);
+        rlist.Add(instance.transform.position);
+        //NextRoomCheck(listidx);
+
+        ++currRoomCnt;
+        ++iAroundcnt;
+    }
+    void AddDownRoom(int listidx)
+    {
+        GameObject toInstantiate = Rooms[Random.Range(0, Rooms.Length)];
+        Renderer render = RoomList[listidx].transform.Find("Sky01").gameObject.GetComponent<Renderer>();
+        if (iAroundcnt >= 4)
+            return;
+        if (rlist.Contains(RoomList[listidx].transform.position + new Vector3(0f, -render.bounds.size.y, 0f)))
+            return;
+        GameObject instance = Instantiate(toInstantiate, RoomList[listidx].transform.position + new Vector3(0f, -render.bounds.size.y, 0f), Quaternion.identity);
+        instance.transform.SetParent((RoomList[listidx]).transform);
+        RoomList.Add(instance);
+        rlist.Add(instance.transform.position);
+        //NextRoomCheck(listidx);
+
+        ++currRoomCnt;
+        ++iAroundcnt;
+    }
+
     void CreateRoom()
     {
         for(int i=2; i< columns ; ++i)
         {
+            if(currRoomCnt>= RoomCount.maximum) { break; }
             iAroundcnt = 0;
             for(int j = 0; j <= 2; ++j)
             {
                 if (0 == Random.Range(0, 4))
                 {
-                    AddRoom(i, new Vector3(0f, 10f, 0f));
+                    AddUpRoom(i);
                 }
                 if (1 == Random.Range(0, 4))
                 {
-                    AddRoom(i, new Vector3(18f, 0f, 0f));
+                    AddRightRoom(i);
                 }
                 if (2 == Random.Range(0, 4))
                 {
-                    AddRoom(i, new Vector3(0f, -10f, 0f));
+                    AddDownRoom(i);
                 }
                 if (3 == Random.Range(0, 4))
                 {
-                    AddRoom(i, new Vector3(-18f, 0f, 0f));
+                    AddLeftRoom(i);
                 }
             }
+
             if(currRoomCnt >= RoomCount.minimum && currRoomCnt <= RoomCount.maximum ) { break; }
+
         }
         NextRoomCheck2();
     }

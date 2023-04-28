@@ -22,6 +22,31 @@ public class ShopSystemManager : MonoBehaviour
 
     void Start()
     {
+        items = new List<Item>();
+    }
+
+    void ApplyToCharacter()
+    {
+        //using MMfeedback
+    }
+
+    List<Item> PickNRandomly(int num, int seed)
+    {
+        List<Item> pickedItem = new List<Item>();
+
         
+
+
+        return pickedItem;
+    }
+
+    void ShowUI()
+    {
+
+    }
+
+    void HideUI()
+    {
+
     }
 }

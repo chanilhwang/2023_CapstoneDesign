@@ -41,7 +41,11 @@ namespace MoreMountains.Feedbacks
             
             if(weapon is ProjectileWeapon)
             {
-                //³ªÁß¿¡
+                ProjectileWeapon projectile = (ProjectileWeapon)weapon;
+                //apply damage to pooling
+                projectile.DelayBeforeUse /= weaponInfo.cache.speed;
+                projectile.TimeBetweenUses = projectile.DelayBeforeUse;
+
             }
             else if(weapon is MeleeWeapon)
             {
@@ -51,7 +55,7 @@ namespace MoreMountains.Feedbacks
                 {
                     melee.MaxDamageCaused += weaponInfo.cache.damage;
                 }
-                melee.DelayBeforeUse /= weaponInfo.cache.damage;
+                melee.DelayBeforeUse /= weaponInfo.cache.speed;
                 melee.TimeBetweenUses = melee.DelayBeforeUse;
             }
         }

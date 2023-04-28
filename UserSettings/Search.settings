@@ -13,6 +13,9 @@ scopes = {
 	"last_search.0B486DF2" = ""
 	"OpenInspectorPreview.0B486DF2" = "0"
 	"currentGroup.0B486DF2" = null
+	"last_search.98CF4AA6" = "camera cont"
+	"OpenInspectorPreview.98CF4AA6" = "0"
+	"currentGroup.98CF4AA6" = "scene"
 }
 providers = {
 	adb = {
@@ -64,6 +67,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"camera"
 ]
 searchItemFavorites = [
 ]

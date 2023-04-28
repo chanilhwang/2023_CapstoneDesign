@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5181017769356995741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5500967242630811150}
+  - component: {fileID: 2996532129271557692}
+  - component: {fileID: 7560483476924183297}
+  - component: {fileID: 9152948876064533061}
+  m_Layer: 13
+  m_Name: Devil_man_combo_weapon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5500967242630811150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5181017769356995741}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2996532129271557692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5181017769356995741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a557e2b93323f4831a62221b200348c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TriggerMode: 1
+  DelayBeforeUse: 0
+  DelayBeforeUseReleaseInterruption: 1
+  TimeBetweenUses: 1
+  TimeBetweenUsesReleaseInterruption: 1
+  Interruptable: 0
+  InitializeOnStart: 0
+  MagazineBased: 0
+  MagazineSize: 30
+  AutoReload: 0
+  ReloadTime: 2
+  AmmoConsumedPerShot: 1
+  AutoDestroyWhenEmpty: 0
+  AutoDestroyWhenEmptyDelay: 1
+  CurrentAmmoLoaded: 0
+  WeaponAttachmentOffset: {x: 0, y: 0, z: 0}
+  FlipWeaponOnCharacterFlip: 1
+  FlipValue: {x: -1, y: 1, z: 1}
+  LeftHandHandle: {fileID: 0}
+  RightHandHandle: {fileID: 0}
+  ModifyMovementWhileEquipped: 0
+  PermanentMovementMultiplier: 0
+  ModifyMovementWhileAttacking: 0
+  MovementMultiplier: 0
+  AlwaysResetMultiplierToInitial: 1
+  PreventHorizontalGroundMovementWhileInUse: 0
+  PreventHorizontalAirMovementWhileInUse: 0
+  SetForceWhileInUse: 0
+  ForceWhileInUse: {x: 0, y: 0}
+  Animators: []
+  MirrorCharacterAnimatorParameters: 0
+  EquippedAnimationParameter: 
+  IdleAnimationParameter: 
+  StartAnimationParameter: 
+  DelayBeforeUseAnimationParameter: 
+  SingleUseAnimationParameter: 
+  UseAnimationParameter: keepAttacking
+  DelayBetweenUsesAnimationParameter: 
+  StopAnimationParameter: 
+  ReloadStartAnimationParameter: 
+  ReloadAnimationParameter: 
+  ReloadStopAnimationParameter: 
+  WeaponAngleAnimationParameter: 
+  WeaponAngleRelativeAnimationParameter: 
+  WeaponStartMMFeedback: {fileID: 0}
+  WeaponUsedMMFeedback: {fileID: 0}
+  WeaponStopMMFeedback: {fileID: 0}
+  WeaponReloadMMFeedback: {fileID: 0}
+  WeaponReloadNeededMMFeedback: {fileID: 0}
+  WeaponOnHitFeedback: {fileID: 0}
+  WeaponOnMissFeedback: {fileID: 0}
+  WeaponOnHitDamageableFeedback: {fileID: 0}
+  WeaponOnHitNonDamageableFeedback: {fileID: 0}
+  WeaponOnKillFeedback: {fileID: 0}
+  ApplyRecoilOnUse: 0
+  RecoilOnUseProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnHitDamageable: 0
+  RecoilOnHitDamageableProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnHitNonDamageable: 0
+  RecoilOnHitNonDamageableProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnMiss: 0
+  RecoilOnMissProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnKill: 0
+  RecoilOnKillProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  MeleeDamageAreaMode: 0
+  DamageAreaShape: 0
+  AreaSize: {x: 2.5, y: 5}
+  AreaOffset: {x: 2.5, y: -2.5}
+  ExistingDamageArea: {fileID: 0}
+  InitialDelay: 0
+  ActiveDuration: 1
+  TargetLayerMask:
+    serializedVersion: 2
+    m_Bits: 512
+  MinDamageCaused: 10
+  MaxDamageCaused: 0
+  Knockback: 1
+  KnockbackForce: {x: 10, y: 2}
+  InvincibilityDuration: 0.5
+--- !u!114 &7560483476924183297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5181017769356995741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a557e2b93323f4831a62221b200348c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TriggerMode: 1
+  DelayBeforeUse: 0
+  DelayBeforeUseReleaseInterruption: 1
+  TimeBetweenUses: 2
+  TimeBetweenUsesReleaseInterruption: 1
+  Interruptable: 0
+  InitializeOnStart: 0
+  MagazineBased: 0
+  MagazineSize: 30
+  AutoReload: 0
+  ReloadTime: 2
+  AmmoConsumedPerShot: 1
+  AutoDestroyWhenEmpty: 0
+  AutoDestroyWhenEmptyDelay: 1
+  CurrentAmmoLoaded: 0
+  WeaponAttachmentOffset: {x: 0, y: 0, z: 0}
+  FlipWeaponOnCharacterFlip: 1
+  FlipValue: {x: -1, y: 1, z: 1}
+  LeftHandHandle: {fileID: 0}
+  RightHandHandle: {fileID: 0}
+  ModifyMovementWhileEquipped: 0
+  PermanentMovementMultiplier: 0
+  ModifyMovementWhileAttacking: 0
+  MovementMultiplier: 0
+  AlwaysResetMultiplierToInitial: 1
+  PreventHorizontalGroundMovementWhileInUse: 0
+  PreventHorizontalAirMovementWhileInUse: 0
+  SetForceWhileInUse: 0
+  ForceWhileInUse: {x: 0, y: 0}
+  Animators: []
+  MirrorCharacterAnimatorParameters: 0
+  EquippedAnimationParameter: 
+  IdleAnimationParameter: 
+  StartAnimationParameter: 
+  DelayBeforeUseAnimationParameter: 
+  SingleUseAnimationParameter: 
+  UseAnimationParameter: skill_2
+  DelayBetweenUsesAnimationParameter: 
+  StopAnimationParameter: 
+  ReloadStartAnimationParameter: 
+  ReloadAnimationParameter: 
+  ReloadStopAnimationParameter: 
+  WeaponAngleAnimationParameter: 
+  WeaponAngleRelativeAnimationParameter: 
+  WeaponStartMMFeedback: {fileID: 0}
+  WeaponUsedMMFeedback: {fileID: 0}
+  WeaponStopMMFeedback: {fileID: 0}
+  WeaponReloadMMFeedback: {fileID: 0}
+  WeaponReloadNeededMMFeedback: {fileID: 0}
+  WeaponOnHitFeedback: {fileID: 0}
+  WeaponOnMissFeedback: {fileID: 0}
+  WeaponOnHitDamageableFeedback: {fileID: 0}
+  WeaponOnHitNonDamageableFeedback: {fileID: 0}
+  WeaponOnKillFeedback: {fileID: 0}
+  ApplyRecoilOnUse: 0
+  RecoilOnUseProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnHitDamageable: 0
+  RecoilOnHitDamageableProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnHitNonDamageable: 0
+  RecoilOnHitNonDamageableProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnMiss: 0
+  RecoilOnMissProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  ApplyRecoilOnKill: 0
+  RecoilOnKillProperties:
+    RecoilForceGrounded: 10
+    RecoilForceAirborne: 10
+    RecoilStyle: 2
+    Delay: 0
+    RecoilFeedback: {fileID: 0}
+  MeleeDamageAreaMode: 0
+  DamageAreaShape: 0
+  AreaSize: {x: 2.5, y: 5}
+  AreaOffset: {x: 2.5, y: 2.5}
+  ExistingDamageArea: {fileID: 0}
+  InitialDelay: 0
+  ActiveDuration: 1
+  TargetLayerMask:
+    serializedVersion: 2
+    m_Bits: 512
+  MinDamageCaused: 10
+  MaxDamageCaused: 0
+  Knockback: 1
+  KnockbackForce: {x: 10, y: 2}
+  InvincibilityDuration: 0.5
+--- !u!114 &9152948876064533061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5181017769356995741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89b3c07e34a5fde4e8d5519e9bcdccf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DroppableCombo: 1
+  DropComboDelay: 1
+  ComboInProgressAnimationParameter: ComboInProgress
+  Weapons: []
+  OwnerCharacterHandleWeapon: {fileID: 0}
+  TimeSinceLastWeaponStopped: 0

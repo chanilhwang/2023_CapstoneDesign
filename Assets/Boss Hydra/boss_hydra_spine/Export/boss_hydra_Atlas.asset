@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: boss_hydra_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 54e4edd22fad5ec4cb3f2efa031d3063, type: 3}
+  materials:
+  - {fileID: 2100000, guid: f104a60b2ebc6824d95f97dae3e8de6d, type: 2}
+  - {fileID: 2100000, guid: 254e7725212039f49aac9d6e5732a5ea, type: 2}
+  - {fileID: 2100000, guid: c0e61af80d32b1040884e1817c71a257, type: 2}
+  - {fileID: 2100000, guid: 73cb866881bdc7d41bc679ec41ccabbf, type: 2}
+  - {fileID: 2100000, guid: 327aea84180e0594b916780fe4cb2928, type: 2}
+  - {fileID: 2100000, guid: 311829e5d70e7b14aaab2a4c8a59c45c, type: 2}
+  - {fileID: 2100000, guid: 3e14925f30f04e04f9fa0c828780fb9c, type: 2}
+  - {fileID: 2100000, guid: 4c12a34aa0778f944bb95778454351cc, type: 2}
+  - {fileID: 2100000, guid: ee737e116ecfed24aa25a2c3cdd8a80f, type: 2}

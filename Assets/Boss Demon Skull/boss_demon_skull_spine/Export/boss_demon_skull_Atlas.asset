@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: boss_demon_skull_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 0c1bd84c5d56dcf4a802e0c51b879ed2, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 1fdf8b2742446744498feb1e2d8d3da0, type: 2}
+  - {fileID: 2100000, guid: 0be733451215bd6448ec450534380c67, type: 2}
+  - {fileID: 2100000, guid: d4b416be997efb443bea909061c17adc, type: 2}
+  - {fileID: 2100000, guid: 9723a3bf56445604aaeb1f8f46172a41, type: 2}
+  - {fileID: 2100000, guid: a0784990af92ef944acf8756fa5dd39a, type: 2}

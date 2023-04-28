@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: boss_greedy_mouth_1_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 87371063f2535b942bb8d170116527b4, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 78294d8e257b0b34d91b1241d8a034a3, type: 2}
+  - {fileID: 2100000, guid: eab51f72d07a1f14f93342e337b85bf3, type: 2}
+  - {fileID: 2100000, guid: 85c48de814108a649b213571739380e6, type: 2}
+  - {fileID: 2100000, guid: eb538471a4c6d0c4c87a511a69954020, type: 2}
+  - {fileID: 2100000, guid: e990292e5a529af49a0b1284cee18f35, type: 2}
+  - {fileID: 2100000, guid: c4d55a8adac9d7f4db9661cf1cacddf0, type: 2}
+  - {fileID: 2100000, guid: 41ed6e524ab1b04499c7dd9e1e4aa85a, type: 2}
+  - {fileID: 2100000, guid: 2a0165e275b4b644fbe1c132da58d128, type: 2}
+  - {fileID: 2100000, guid: dd5acadaa7ae32846a337f1583ec8c6b, type: 2}
+  - {fileID: 2100000, guid: 79fcd9eb825b646468bbd92be2a497b6, type: 2}
+  - {fileID: 2100000, guid: c8175292e8a05cb4faf8701c133cf018, type: 2}

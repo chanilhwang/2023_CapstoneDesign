@@ -11108,8 +11108,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed7c62acc9b0c5d4f9dd0d0113c8016c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  columns: 100
-  rows: 100
+  columns: 150
+  rows: 150
   RoomCount:
     minimum: 3
     maximum: 5
